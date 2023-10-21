@@ -1,0 +1,2507 @@
+Conexiones activas de Internet (servidores w/o)
+Proto  Recib Enviad Dirección local         Dirección remota       Estado      
+tcp        0      0 aulaDAM2A-pc00:45214    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45988    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45168    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45184    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45982    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 localhost:49742         localhost:11300         ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:51540    mad41s13-in-f10.1:https TIME_WAIT  
+tcp        0      0 aulaDAM2A-pc00:45162    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:49810    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:43906    mad41s08-in-f10.1:https TIME_WAIT  
+tcp        0      0 aulaDAM2A-pc00:45200    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45204    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 localhost:11300         localhost:49742         ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:53658    aulaDAM2A-pc00:37965    TIME_WAIT  
+tcp6       0      0 aulaDAM2A-pc00:45773    aulaDAM2A-pc00:37240    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:37240    aulaDAM2A-pc00:45773    ESTABLECIDO
+udp        0      0 aulaDAM2A-pc00:bootpc   172.23.140.92:bootps    ESTABLECIDO
+Sockets activos de dominio UNIX (servidores w/o)
+Proto RefCnt Flags       Type       State         I-Node   Ruta
+unix  2      [ ]         DGRAM      CONECTADO     38652    /var/lib/samba/private/msg.sock/1553
+unix  2      [ ]         DGRAM                    129568   /run/user/1005/systemd/notify
+unix  2      [ ]         DGRAM                    108389   /run/user/1001/systemd/notify
+unix  2      [ ]         DGRAM                    91784    /run/user/1006/systemd/notify
+unix  2      [ ]         DGRAM                    38890    /run/user/1004/systemd/notify
+unix  4      [ ]         DGRAM      CONECTADO     17717    /run/systemd/notify
+unix  2      [ ]         DGRAM                    37644    /var/lib/samba/private/msg.sock/1565
+unix  2      [ ]         DGRAM                    17743    /run/systemd/journal/syslog
+unix  27     [ ]         DGRAM      CONECTADO     17753    /run/systemd/journal/dev-log
+unix  11     [ ]         DGRAM      CONECTADO     17757    /run/systemd/journal/socket
+unix  2      [ ]         DGRAM      CONECTADO     39007    /var/lib/samba/private/msg.sock/1555
+unix  2      [ ]         DGRAM      CONECTADO     40715    /var/lib/samba/private/msg.sock/1550
+unix  2      [ ]         DGRAM      CONECTADO     40109    /var/lib/samba/private/msg.sock/1452
+unix  3      [ ]         SEQPACKET  CONECTADO     137300   @0001d
+unix  3      [ ]         SEQPACKET  CONECTADO     137298   @0001c
+unix  2      [ ]         DGRAM      CONECTADO     37492    /var/lib/samba/private/msg.sock/1538
+unix  2      [ ]         DGRAM      CONECTADO     38646    /var/lib/samba/private/msg.sock/1545
+unix  2      [ ]         DGRAM      CONECTADO     39006    /var/lib/samba/private/msg.sock/1554
+unix  3      [ ]         FLUJO      CONECTADO     135421   
+unix  3      [ ]         FLUJO      CONECTADO     133780   
+unix  3      [ ]         FLUJO      CONECTADO     131889   
+unix  3      [ ]         FLUJO      CONECTADO     131865   
+unix  3      [ ]         FLUJO      CONECTADO     131820   
+unix  3      [ ]         FLUJO      CONECTADO     134390   
+unix  3      [ ]         FLUJO      CONECTADO     134445   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131633   
+unix  3      [ ]         FLUJO      CONECTADO     127891   
+unix  3      [ ]         FLUJO      CONECTADO     134824   
+unix  3      [ ]         FLUJO      CONECTADO     134556   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31434    
+unix  3      [ ]         FLUJO      CONECTADO     33205    
+unix  3      [ ]         FLUJO      CONECTADO     130437   
+unix  3      [ ]         DGRAM      CONECTADO     38892    
+unix  3      [ ]         FLUJO      CONECTADO     30905    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133081   
+unix  3      [ ]         FLUJO      CONECTADO     130875   
+unix  2      [ ]         DGRAM      CONECTADO     130802   
+unix  3      [ ]         FLUJO      CONECTADO     132135   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     32370    
+unix  3      [ ]         FLUJO      CONECTADO     29588    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146987   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     136630   
+unix  3      [ ]         FLUJO      CONECTADO     129778   
+unix  3      [ ]         FLUJO      CONECTADO     133823   
+unix  3      [ ]         FLUJO      CONECTADO     131809   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     30060    
+unix  3      [ ]         FLUJO      CONECTADO     21133    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138109   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133179   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134440   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131647   
+unix  3      [ ]         FLUJO      CONECTADO     132595   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131854   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146351   
+unix  2      [ ]         DGRAM      CONECTADO     130311   
+unix  3      [ ]         FLUJO      CONECTADO     135921   
+unix  3      [ ]         FLUJO      CONECTADO     137343   
+unix  2      [ ]         DGRAM      CONECTADO     30510    
+unix  3      [ ]         FLUJO      CONECTADO     28901    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138820   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132144   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132114   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131786   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131625   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     91765    
+unix  3      [ ]         FLUJO      CONECTADO     135434   
+unix  3      [ ]         FLUJO      CONECTADO     134640   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134512   
+unix  3      [ ]         FLUJO      CONECTADO     131886   
+unix  3      [ ]         FLUJO      CONECTADO     131871   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131816   
+unix  3      [ ]         FLUJO      CONECTADO     31016    /run/avahi-daemon/socket
+unix  3      [ ]         FLUJO      CONECTADO     132927   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134562   
+unix  3      [ ]         FLUJO      CONECTADO     30898    
+unix  3      [ ]         FLUJO      CONECTADO     29595    
+unix  2      [ ]         DGRAM                    30875    
+unix  3      [ ]         FLUJO      CONECTADO     133315   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     129850   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131523   
+unix  3      [ ]         FLUJO      CONECTADO     150218   
+unix  3      [ ]         FLUJO      CONECTADO     133066   
+unix  3      [ ]         FLUJO      CONECTADO     132040   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130713   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40815    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     37835    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136910   
+unix  3      [ ]         FLUJO      CONECTADO     37499    
+unix  3      [ ]         FLUJO      CONECTADO     138531   
+unix  3      [ ]         FLUJO      CONECTADO     131488   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     32266    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     148777   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134510   
+unix  3      [ ]         FLUJO      CONECTADO     133612   
+unix  3      [ ]         FLUJO      CONECTADO     134172   
+unix  3      [ ]         FLUJO      CONECTADO     133822   
+unix  3      [ ]         FLUJO      CONECTADO     131804   
+unix  3      [ ]         FLUJO      CONECTADO     30140    
+unix  2      [ ]         DGRAM      CONECTADO     19139    
+unix  3      [ ]         FLUJO      CONECTADO     131938   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     127890   
+unix  3      [ ]         FLUJO      CONECTADO     133314   
+unix  3      [ ]         FLUJO      CONECTADO     131660   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     29204    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129721   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131436   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     140123   
+unix  3      [ ]         FLUJO      CONECTADO     132491   
+unix  3      [ ]         FLUJO      CONECTADO     132411   
+unix  3      [ ]         FLUJO      CONECTADO     126932   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     90774    
+unix  3      [ ]         FLUJO      CONECTADO     137747   
+unix  3      [ ]         FLUJO      CONECTADO     132111   
+unix  3      [ ]         FLUJO      CONECTADO     131778   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131638   
+unix  3      [ ]         FLUJO      CONECTADO     131360   
+unix  2      [ ]         FLUJO      CONECTADO     40726    
+unix  3      [ ]         SEQPACKET  CONECTADO     136305   
+unix  3      [ ]         FLUJO      CONECTADO     130321   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     32877    
+unix  2      [ ]         DGRAM      CONECTADO     31018    
+unix  2      [ ]         DGRAM      CONECTADO     29694    
+unix  3      [ ]         FLUJO      CONECTADO     131939   
+unix  3      [ ]         FLUJO      CONECTADO     131925   @/dbus-vfs-daemon/socket-s7Kw5PXP
+unix  3      [ ]         FLUJO      CONECTADO     131879   
+unix  3      [ ]         FLUJO      CONECTADO     131866   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131810   
+unix  3      [ ]         FLUJO      CONECTADO     134216   
+unix  3      [ ]         FLUJO      CONECTADO     126828   
+unix  3      [ ]         FLUJO      CONECTADO     127902   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM                    32263    
+unix  3      [ ]         FLUJO      CONECTADO     28758    
+unix  3      [ ]         FLUJO      CONECTADO     129690   
+unix  3      [ ]         FLUJO      CONECTADO     132239   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130439   
+unix  3      [ ]         FLUJO      CONECTADO     27912    
+unix  3      [ ]         FLUJO      CONECTADO     133084   
+unix  3      [ ]         FLUJO      CONECTADO     130696   
+unix  3      [ ]         FLUJO      CONECTADO     97969    /run/user/1006/bus
+unix  2      [ ]         FLUJO      CONECTADO     147932   
+unix  3      [ ]         FLUJO      CONECTADO     131645   
+unix  3      [ ]         FLUJO      CONECTADO     136300   
+unix  3      [ ]         FLUJO      CONECTADO     133558   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136297   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131907   
+unix  3      [ ]         FLUJO      CONECTADO     131814   
+unix  3      [ ]         FLUJO      CONECTADO     29130    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     149187   
+unix  3      [ ]         FLUJO      CONECTADO     129779   
+unix  3      [ ]         FLUJO      CONECTADO     136629   
+unix  3      [ ]         FLUJO      CONECTADO     132346   
+unix  3      [ ]         FLUJO      CONECTADO     131432   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     150158   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130330   
+unix  3      [ ]         SEQPACKET  CONECTADO     137338   
+unix  3      [ ]         FLUJO      CONECTADO     132502   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     28899    
+unix  3      [ ]         FLUJO      CONECTADO     136301   
+unix  3      [ ]         FLUJO      CONECTADO     30908    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29590    
+unix  3      [ ]         FLUJO      CONECTADO     29292    
+unix  3      [ ]         FLUJO      CONECTADO     131803   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131654   
+unix  3      [ ]         FLUJO      CONECTADO     132287   
+unix  3      [ ]         FLUJO      CONECTADO     91788    
+unix  2      [ ]         FLUJO                    151475   
+unix  3      [ ]         FLUJO      CONECTADO     135425   
+unix  3      [ ]         FLUJO      CONECTADO     131954   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131848   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133540   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131800   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40245    
+unix  3      [ ]         FLUJO      CONECTADO     26492    
+unix  3      [ ]         FLUJO      CONECTADO     37500    
+unix  3      [ ]         FLUJO      CONECTADO     134449   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    35423    
+unix  3      [ ]         FLUJO      CONECTADO     32371    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135918   
+unix  3      [ ]         FLUJO      CONECTADO     138368   
+unix  3      [ ]         FLUJO      CONECTADO     133079   
+unix  3      [ ]         FLUJO      CONECTADO     136321   
+unix  3      [ ]         FLUJO      CONECTADO     130716   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     38891    
+unix  3      [ ]         DGRAM      CONECTADO     27744    
+unix  3      [ ]         DGRAM      CONECTADO     27742    
+unix  3      [ ]         FLUJO      CONECTADO     132307   
+unix  3      [ ]         FLUJO      CONECTADO     36273    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148682   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     41640    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     149189   
+unix  3      [ ]         FLUJO      CONECTADO     131829   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134398   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     38458    
+unix  3      [ ]         FLUJO      CONECTADO     137328   
+unix  3      [ ]         FLUJO      CONECTADO     130872   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     91785    
+unix  3      [ ]         FLUJO      CONECTADO     24484    
+unix  3      [ ]         FLUJO      CONECTADO     133088   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     132389   
+unix  3      [ ]         FLUJO      CONECTADO     129601   
+unix  3      [ ]         FLUJO      CONECTADO     137775   
+unix  3      [ ]         FLUJO      CONECTADO     129024   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135920   
+unix  3      [ ]         SEQPACKET  CONECTADO     137347   
+unix  3      [ ]         FLUJO      CONECTADO     129714   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132208   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129666   
+unix  3      [ ]         FLUJO      CONECTADO     38871    
+unix  3      [ ]         FLUJO      CONECTADO     133663   
+unix  3      [ ]         FLUJO      CONECTADO     133740   
+unix  3      [ ]         FLUJO      CONECTADO     129783   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     126930   
+unix  3      [ ]         FLUJO      CONECTADO     112494   
+unix  3      [ ]         FLUJO      CONECTADO     90775    
+unix  3      [ ]         FLUJO      CONECTADO     39134    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132482   
+unix  3      [ ]         FLUJO      CONECTADO     129677   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     36964    
+unix  3      [ ]         FLUJO      CONECTADO     138693   
+unix  3      [ ]         SEQPACKET  CONECTADO     137296   
+unix  3      [ ]         FLUJO      CONECTADO     132042   
+unix  3      [ ]         FLUJO      CONECTADO     132018   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133569   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134416   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133557   
+unix  3      [ ]         FLUJO      CONECTADO     131811   
+unix  3      [ ]         FLUJO      CONECTADO     134392   
+unix  3      [ ]         FLUJO      CONECTADO     134273   
+unix  3      [ ]         FLUJO      CONECTADO     131766   
+unix  3      [ ]         FLUJO      CONECTADO     129854   
+unix  3      [ ]         FLUJO      CONECTADO     38194    
+unix  3      [ ]         FLUJO      CONECTADO     132288   
+unix  2      [ ]         DGRAM      CONECTADO     131236   
+unix  3      [ ]         FLUJO      CONECTADO     136295   
+unix  3      [ ]         FLUJO      CONECTADO     136232   
+unix  3      [ ]         FLUJO      CONECTADO     134563   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31398    
+unix  3      [ ]         FLUJO      CONECTADO     138366   
+unix  3      [ ]         FLUJO      CONECTADO     126933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135893   
+unix  3      [ ]         FLUJO      CONECTADO     32837    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     28375    
+unix  2      [ ]         DGRAM      CONECTADO     28691    
+unix  3      [ ]         DGRAM      CONECTADO     17719    
+unix  3      [ ]         FLUJO      CONECTADO     99825    
+unix  3      [ ]         FLUJO      CONECTADO     33147    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136504   
+unix  3      [ ]         FLUJO      CONECTADO     136373   
+unix  3      [ ]         FLUJO      CONECTADO     130704   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     135436   
+unix  3      [ ]         FLUJO      CONECTADO     134462   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133710   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131822   
+unix  3      [ ]         FLUJO      CONECTADO     40095    
+unix  3      [ ]         FLUJO      CONECTADO     133279   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133167   
+unix  3      [ ]         FLUJO      CONECTADO     131721   
+unix  3      [ ]         FLUJO      CONECTADO     131634   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33138    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132599   
+unix  3      [ ]         FLUJO      CONECTADO     130709   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137344   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130434   
+unix  3      [ ]         FLUJO      CONECTADO     24265    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131624   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129725   
+unix  3      [ ]         FLUJO      CONECTADO     129716   
+unix  3      [ ]         FLUJO      CONECTADO     135923   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     138602   
+unix  3      [ ]         FLUJO      CONECTADO     131583   
+unix  3      [ ]         FLUJO      CONECTADO     32763    
+unix  3      [ ]         FLUJO      CONECTADO     132508   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131828   
+unix  3      [ ]         FLUJO      CONECTADO     132971   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134836   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131932   
+unix  3      [ ]         FLUJO      CONECTADO     131838   
+unix  3      [ ]         FLUJO      CONECTADO     133553   
+unix  3      [ ]         FLUJO      CONECTADO     134278   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133286   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131795   
+unix  3      [ ]         FLUJO      CONECTADO     131793   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132981   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134608   
+unix  3      [ ]         FLUJO      CONECTADO     30907    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29435    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148389   
+unix  3      [ ]         FLUJO      CONECTADO     148678   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132179   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     138821   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140122   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     133719   
+unix  3      [ ]         FLUJO      CONECTADO     132308   
+unix  3      [ ]         FLUJO      CONECTADO     130876   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136893   
+unix  3      [ ]         FLUJO      CONECTADO     136588   
+unix  3      [ ]         FLUJO      CONECTADO     132008   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     100502   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137479   
+unix  3      [ ]         FLUJO      CONECTADO     33150    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     147935   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130937   
+unix  3      [ ]         FLUJO      CONECTADO     132301   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     135437   
+unix  3      [ ]         FLUJO      CONECTADO     132495   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131844   
+unix  3      [ ]         FLUJO      CONECTADO     134555   
+unix  3      [ ]         FLUJO      CONECTADO     147938   
+unix  3      [ ]         FLUJO      CONECTADO     131662   
+unix  3      [ ]         FLUJO      CONECTADO     131632   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132226   
+unix  3      [ ]         FLUJO      CONECTADO     132131   
+unix  3      [ ]         FLUJO      CONECTADO     132112   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     39002    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     129570   
+unix  3      [ ]         FLUJO      CONECTADO     138365   
+unix  3      [ ]         FLUJO      CONECTADO     133665   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     126952   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134825   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134466   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     129594   
+unix  3      [ ]         FLUJO      CONECTADO     29591    
+unix  3      [ ]         FLUJO      CONECTADO     149188   
+unix  3      [ ]         FLUJO      CONECTADO     135424   
+unix  3      [ ]         FLUJO      CONECTADO     136298   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133819   
+unix  3      [ ]         FLUJO      CONECTADO     132496   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131817   
+unix  3      [ ]         FLUJO      CONECTADO     131806   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133535   
+unix  3      [ ]         FLUJO      CONECTADO     131796   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130029   
+unix  3      [ ]         FLUJO      CONECTADO     93297    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     32764    
+unix  3      [ ]         FLUJO      CONECTADO     136333   
+unix  3      [ ]         FLUJO      CONECTADO     132492   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     97968    
+unix  3      [ ]         FLUJO      CONECTADO     130348   
+unix  2      [ ]         FLUJO      CONECTADO     151890   
+unix  3      [ ]         FLUJO      CONECTADO     135916   
+unix  3      [ ]         FLUJO      CONECTADO     133717   
+unix  2      [ ]         DGRAM      CONECTADO     28974    
+unix  3      [ ]         FLUJO      CONECTADO     27534    
+unix  3      [ ]         FLUJO      CONECTADO     133708   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133613   
+unix  3      [ ]         FLUJO      CONECTADO     133181   
+unix  3      [ ]         FLUJO      CONECTADO     42379    
+unix  3      [ ]         FLUJO      CONECTADO     30904    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134450   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     34806    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     18894    
+unix  3      [ ]         FLUJO      CONECTADO     131823   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131785   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133347   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129717   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129689   
+unix  3      [ ]         FLUJO      CONECTADO     138530   
+unix  3      [ ]         FLUJO      CONECTADO     132110   
+unix  3      [ ]         FLUJO      CONECTADO     129667   
+unix  3      [ ]         FLUJO      CONECTADO     130715   
+unix  3      [ ]         FLUJO      CONECTADO     132497   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130423   
+unix  2      [ ]         DGRAM      CONECTADO     38880    
+unix  3      [ ]         FLUJO      CONECTADO     27679    
+unix  3      [ ]         FLUJO      CONECTADO     134846   
+unix  3      [ ]         FLUJO      CONECTADO     134648   
+unix  3      [ ]         FLUJO      CONECTADO     30889    
+unix  3      [ ]         FLUJO      CONECTADO     30903    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130453   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91774    
+unix  3      [ ]         FLUJO      CONECTADO     29057    /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONECTADO     137301   
+unix  3      [ ]         FLUJO      CONECTADO     131937   
+unix  3      [ ]         FLUJO      CONECTADO     133561   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131818   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134270   
+unix  3      [ ]         FLUJO      CONECTADO     131765   
+unix  2      [ ]         DGRAM      CONECTADO     26495    
+unix  3      [ ]         DGRAM      CONECTADO     20747    
+unix  3      [ ]         FLUJO      CONECTADO     140643   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     136503   
+unix  3      [ ]         FLUJO      CONECTADO     131933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     97955    
+unix  2      [ ]         DGRAM      CONECTADO     27739    
+unix  3      [ ]         FLUJO      CONECTADO     133085   
+unix  3      [ ]         FLUJO      CONECTADO     34772    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135892   
+unix  3      [ ]         FLUJO      CONECTADO     135560   
+unix  3      [ ]         FLUJO      CONECTADO     130830   
+unix  3      [ ]         FLUJO      CONECTADO     32881    
+unix  3      [ ]         FLUJO      CONECTADO     133281   
+unix  3      [ ]         FLUJO      CONECTADO     131722   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131659   
+unix  3      [ ]         FLUJO      CONECTADO     95427    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30891    
+unix  3      [ ]         FLUJO      CONECTADO     131771   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     135439   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131893   
+unix  3      [ ]         FLUJO      CONECTADO     131870   
+unix  3      [ ]         FLUJO      CONECTADO     132500   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134277   
+unix  3      [ ]         FLUJO      CONECTADO     29051    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138692   
+unix  3      [ ]         FLUJO      CONECTADO     134384   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     38459    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136312   
+unix  3      [ ]         FLUJO      CONECTADO     134442   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131646   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129713   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130398   
+unix  3      [ ]         FLUJO      CONECTADO     150217   
+unix  3      [ ]         FLUJO      CONECTADO     130267   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     34809    
+unix  3      [ ]         FLUJO      CONECTADO     29808    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137774   
+unix  3      [ ]         FLUJO      CONECTADO     138601   
+unix  3      [ ]         FLUJO      CONECTADO     132509   
+unix  2      [ ]         DGRAM                    129680   
+unix  2      [ ]         DGRAM      CONECTADO     108377   
+unix  3      [ ]         FLUJO      CONECTADO     132972   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     137330   
+unix  3      [ ]         FLUJO      CONECTADO     134511   
+unix  3      [ ]         FLUJO      CONECTADO     131847   
+unix  3      [ ]         FLUJO      CONECTADO     133554   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     88841    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131059   
+unix  3      [ ]         FLUJO      CONECTADO     129841   
+unix  3      [ ]         FLUJO      CONECTADO     131525   
+unix  3      [ ]         SEQPACKET  CONECTADO     136304   
+unix  3      [ ]         FLUJO      CONECTADO     132510   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133473   
+unix  3      [ ]         FLUJO      CONECTADO     131631   
+unix  3      [ ]         FLUJO      CONECTADO     32885    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     30897    
+unix  3      [ ]         FLUJO      CONECTADO     29203    
+unix  3      [ ]         FLUJO      CONECTADO     130457   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131553   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     27743    
+unix  3      [ ]         FLUJO      CONECTADO     27844    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136509   
+unix  2      [ ]         DGRAM      CONECTADO     126929   
+unix  3      [ ]         FLUJO      CONECTADO     37655    
+unix  3      [ ]         FLUJO      CONECTADO     129676   
+unix  3      [ ]         FLUJO      CONECTADO     148679   
+unix  3      [ ]         FLUJO      CONECTADO     137327   
+unix  3      [ ]         FLUJO      CONECTADO     92487    
+unix  3      [ ]         FLUJO      CONECTADO     38638    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132983   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131903   
+unix  3      [ ]         FLUJO      CONECTADO     134417   
+unix  3      [ ]         FLUJO      CONECTADO     134175   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131655   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131513   
+unix  3      [ ]         FLUJO      CONECTADO     135586   
+unix  3      [ ]         SEQPACKET  CONECTADO     137346   
+unix  3      [ ]         FLUJO      CONECTADO     30292    
+unix  2      [ ]         DGRAM      CONECTADO     130305   
+unix  3      [ ]         FLUJO      CONECTADO     136171   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     132521   
+unix  3      [ ]         FLUJO      CONECTADO     131552   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130350   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     108383   
+unix  3      [ ]         FLUJO      CONECTADO     90776    
+unix  3      [ ]         FLUJO      CONECTADO     136313   
+unix  3      [ ]         FLUJO      CONECTADO     133178   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132517   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131924   
+unix  3      [ ]         FLUJO      CONECTADO     133562   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131840   
+unix  3      [ ]         FLUJO      CONECTADO     134397   
+unix  3      [ ]         FLUJO      CONECTADO     133130   /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     15331    
+unix  3      [ ]         FLUJO      CONECTADO     134641   
+unix  3      [ ]         FLUJO      CONECTADO     134559   
+unix  3      [ ]         FLUJO      CONECTADO     132501   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31017    
+unix  3      [ ]         FLUJO      CONECTADO     133080   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     132597   
+unix  3      [ ]         FLUJO      CONECTADO     130707   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130706   
+unix  3      [ ]         FLUJO      CONECTADO     28824    
+unix  3      [ ]         FLUJO      CONECTADO     135559   
+unix  3      [ ]         FLUJO      CONECTADO     126837   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     27684    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131516   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140126   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130440   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130353   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90777    /run/user/1004/bus
+unix  3      [ ]         FLUJO      CONECTADO     148388   
+unix  3      [ ]         FLUJO      CONECTADO     132019   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133620   
+unix  3      [ ]         FLUJO      CONECTADO     131648   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133821   
+unix  3      [ ]         FLUJO      CONECTADO     138649   
+unix  3      [ ]         FLUJO      CONECTADO     131904   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133716   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     26496    
+unix  3      [ ]         FLUJO      CONECTADO     148677   
+unix  3      [ ]         FLUJO      CONECTADO     131061   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     38655    
+unix  3      [ ]         FLUJO      CONECTADO     140642   
+unix  3      [ ]         FLUJO      CONECTADO     129027   
+unix  3      [ ]         FLUJO      CONECTADO     132519   
+unix  3      [ ]         FLUJO      CONECTADO     131767   @/tmp/dbus-twe2lxcVjH
+unix  2      [ ]         DGRAM      CONECTADO     97966    
+unix  3      [ ]         FLUJO      CONECTADO     35996    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135917   
+unix  3      [ ]         FLUJO      CONECTADO     134606   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131622   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131928   @/dbus-vfs-daemon/socket-OgfUdeKN
+unix  3      [ ]         FLUJO      CONECTADO     134517   
+unix  3      [ ]         FLUJO      CONECTADO     133169   
+unix  3      [ ]         FLUJO      CONECTADO     131724   
+unix  3      [ ]         FLUJO      CONECTADO     31399    /run/rpcbind.sock
+unix  3      [ ]         FLUJO      CONECTADO     32861    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30906    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135435   
+unix  3      [ ]         FLUJO      CONECTADO     135427   
+unix  3      [ ]         FLUJO      CONECTADO     133715   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134461   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131890   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131839   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133550   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     92770    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38462    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138645   
+unix  3      [ ]         FLUJO      CONECTADO     137745   
+unix  3      [ ]         FLUJO      CONECTADO     132223   
+unix  3      [ ]         FLUJO      CONECTADO     132143   
+unix  3      [ ]         FLUJO      CONECTADO     32733    
+unix  3      [ ]         FLUJO      CONECTADO     130443   
+unix  3      [ ]         DGRAM      CONECTADO     129569   
+unix  3      [ ]         FLUJO      CONECTADO     29819    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137382   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136320   
+unix  3      [ ]         FLUJO      CONECTADO     130708   
+unix  3      [ ]         FLUJO      CONECTADO     133127   
+unix  3      [ ]         FLUJO      CONECTADO     131653   
+unix  3      [ ]         FLUJO      CONECTADO     131586   @/tmp/dbus-twe2lxcVjH
+unix  2      [ ]         FLUJO      CONECTADO     153789   
+unix  3      [ ]         SEQPACKET  CONECTADO     137299   
+unix  3      [ ]         FLUJO      CONECTADO     133539   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130026   
+unix  3      [ ]         FLUJO      CONECTADO     37437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38197    
+unix  3      [ ]         FLUJO      CONECTADO     134463   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134271   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     30902    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30901    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138097   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134553   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133621   
+unix  3      [ ]         FLUJO      CONECTADO     132448   
+unix  3      [ ]         FLUJO      CONECTADO     130425   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     108390   
+unix  3      [ ]         FLUJO      CONECTADO     97967    
+unix  3      [ ]         FLUJO      CONECTADO     137480   
+unix  3      [ ]         FLUJO      CONECTADO     129011   
+unix  3      [ ]         FLUJO      CONECTADO     135919   
+unix  2      [ ]         DGRAM      CONECTADO     30581    
+unix  3      [ ]         FLUJO      CONECTADO     150706   
+unix  3      [ ]         FLUJO      CONECTADO     130424   
+unix  3      [ ]         FLUJO      CONECTADO     134935   
+unix  3      [ ]         FLUJO      CONECTADO     30899    
+unix  3      [ ]         FLUJO      CONECTADO     30890    
+unix  3      [ ]         FLUJO      CONECTADO     29293    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131524   
+unix  3      [ ]         FLUJO      CONECTADO     129852   
+unix  3      [ ]         FLUJO      CONECTADO     131639   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     40084    
+unix  3      [ ]         SEQPACKET  CONECTADO     137337   
+unix  3      [ ]         FLUJO      CONECTADO     132041   
+unix  3      [ ]         FLUJO      CONECTADO     131940   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131891   
+unix  3      [ ]         FLUJO      CONECTADO     131875   
+unix  3      [ ]         FLUJO      CONECTADO     131815   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134274   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131775   
+unix  3      [ ]         FLUJO      CONECTADO     132149   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137746   
+unix  2      [ ]         FLUJO      CONECTADO     138479   
+unix  3      [ ]         FLUJO      CONECTADO     126934   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     32265    
+unix  3      [ ]         FLUJO      CONECTADO     134937   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133664   
+unix  3      [ ]         DGRAM      CONECTADO     17718    
+unix  3      [ ]         FLUJO      CONECTADO     140128   
+unix  3      [ ]         FLUJO      CONECTADO     132222   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     38886    
+unix  3      [ ]         FLUJO      CONECTADO     27657    
+unix  3      [ ]         FLUJO      CONECTADO     130395   
+unix  3      [ ]         FLUJO      CONECTADO     27682    
+unix  3      [ ]         FLUJO      CONECTADO     134455   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130718   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     130444   
+unix  3      [ ]         FLUJO      CONECTADO     32626    
+unix  3      [ ]         FLUJO      CONECTADO     29046    
+unix  3      [ ]         FLUJO      CONECTADO     27843    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140644   
+unix  3      [ ]         FLUJO      CONECTADO     136894   
+unix  3      [ ]         FLUJO      CONECTADO     136510   
+unix  3      [ ]         FLUJO      CONECTADO     131901   
+unix  3      [ ]         FLUJO      CONECTADO     135422   
+unix  3      [ ]         FLUJO      CONECTADO     134419   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132300   
+unix  3      [ ]         FLUJO      CONECTADO     134513   
+unix  3      [ ]         FLUJO      CONECTADO     133128   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131663   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31188    
+unix  3      [ ]         FLUJO      CONECTADO     132218   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     36790    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131723   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     125902   
+unix  3      [ ]         FLUJO      CONECTADO     138646   
+unix  3      [ ]         FLUJO      CONECTADO     131534   
+unix  3      [ ]         FLUJO      CONECTADO     126918   
+unix  3      [ ]         FLUJO      CONECTADO     34771    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     108391   
+unix  3      [ ]         FLUJO      CONECTADO     37463    
+unix  3      [ ]         FLUJO      CONECTADO     147941   
+unix  3      [ ]         FLUJO      CONECTADO     135432   
+unix  2      [ ]         DGRAM      CONECTADO     133820   
+unix  3      [ ]         FLUJO      CONECTADO     131841   
+unix  3      [ ]         FLUJO      CONECTADO     133538   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131808   
+unix  3      [ ]         FLUJO      CONECTADO     133406   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131777   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     148776   
+unix  3      [ ]         FLUJO      CONECTADO     130027   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131656   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129559   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     127892   
+unix  3      [ ]         FLUJO      CONECTADO     38656    
+unix  3      [ ]         FLUJO      CONECTADO     136294   
+unix  3      [ ]         FLUJO      CONECTADO     32882    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31111    
+unix  3      [ ]         FLUJO      CONECTADO     136181   
+unix  3      [ ]         FLUJO      CONECTADO     132973   
+unix  2      [ ]         DGRAM                    133729   
+unix  3      [ ]         FLUJO      CONECTADO     130717   
+unix  3      [ ]         FLUJO      CONECTADO     24485    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30900    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     127893   /run/user/1001/bus
+unix  3      [ ]         FLUJO      CONECTADO     24270    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140129   
+unix  2      [ ]         DGRAM      CONECTADO     35394    
+unix  3      [ ]         FLUJO      CONECTADO     144166   
+unix  3      [ ]         FLUJO      CONECTADO     137481   
+unix  3      [ ]         FLUJO      CONECTADO     131058   
+unix  3      [ ]         FLUJO      CONECTADO     35647    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131915   
+unix  3      [ ]         FLUJO      CONECTADO     131953   
+unix  3      [ ]         FLUJO      CONECTADO     134460   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     31284    
+unix  3      [ ]         FLUJO      CONECTADO     134518   
+unix  3      [ ]         FLUJO      CONECTADO     134451   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133278   
+unix  3      [ ]         FLUJO      CONECTADO     130938   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131640   
+unix  3      [ ]         FLUJO      CONECTADO     132503   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130697   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131623   /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONECTADO     27741    
+unix  3      [ ]         FLUJO      CONECTADO     132227   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     108368   
+unix  3      [ ]         FLUJO      CONECTADO     126649   
+unix  3      [ ]         FLUJO      CONECTADO     126618   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129847   
+unix  3      [ ]         DGRAM      CONECTADO     91786    
+unix  3      [ ]         SEQPACKET  CONECTADO     137295   
+unix  3      [ ]         FLUJO      CONECTADO     132012   
+unix  3      [ ]         FLUJO      CONECTADO     133611   
+unix  3      [ ]         FLUJO      CONECTADO     131853   
+unix  3      [ ]         FLUJO      CONECTADO     134279   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134268   
+unix  3      [ ]         FLUJO      CONECTADO     134217   
+unix  3      [ ]         FLUJO      CONECTADO     30136    
+unix  3      [ ]         DGRAM      CONECTADO     20746    
+unix  3      [ ]         FLUJO      CONECTADO     136310   
+unix  3      [ ]         FLUJO      CONECTADO     131955   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     34780    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30909    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131480   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131479   
+unix  3      [ ]         FLUJO      CONECTADO     137482   
+unix  3      [ ]         FLUJO      CONECTADO     136589   
+unix  3      [ ]         FLUJO      CONECTADO     132315   
+unix  3      [ ]         FLUJO      CONECTADO     111408   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129718   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38938    
+unix  3      [ ]         FLUJO      CONECTADO     136169   
+unix  3      [ ]         FLUJO      CONECTADO     133082   
+unix  3      [ ]         FLUJO      CONECTADO     133720   
+unix  3      [ ]         FLUJO      CONECTADO     131650   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     28968    
+unix  3      [ ]         FLUJO      CONECTADO     27601    
+unix  3      [ ]         FLUJO      CONECTADO     130909   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131725   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     94697    
+unix  3      [ ]         FLUJO      CONECTADO     131905   
+unix  3      [ ]         FLUJO      CONECTADO     33202    
+unix  3      [ ]         FLUJO      CONECTADO     138694   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135438   
+unix  3      [ ]         FLUJO      CONECTADO     131887   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131790   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131060   
+unix  3      [ ]         FLUJO      CONECTADO     132314   
+unix  3      [ ]         FLUJO      CONECTADO     129745   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     126931   
+unix  3      [ ]         FLUJO      CONECTADO     126876   
+unix  3      [ ]         FLUJO      CONECTADO     114921   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31805    
+unix  3      [ ]         FLUJO      CONECTADO     129715   
+unix  3      [ ]         FLUJO      CONECTADO     108393   
+unix  3      [ ]         DGRAM      CONECTADO     36965    
+unix  3      [ ]         FLUJO      CONECTADO     130456   
+unix  3      [ ]         FLUJO      CONECTADO     28208    
+unix  3      [ ]         FLUJO      CONECTADO     133067   
+unix  3      [ ]         FLUJO      CONECTADO     129722   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33803    
+unix  3      [ ]         FLUJO      CONECTADO     132277   
+unix  3      [ ]         FLUJO      CONECTADO     131476   
+unix  3      [ ]         FLUJO      CONECTADO     136303   
+unix  3      [ ]         FLUJO      CONECTADO     37945    
+unix  3      [ ]         FLUJO      CONECTADO     33129    
+unix  3      [ ]         FLUJO      CONECTADO     135431   
+unix  3      [ ]         FLUJO      CONECTADO     133779   
+unix  3      [ ]         FLUJO      CONECTADO     131894   
+unix  3      [ ]         FLUJO      CONECTADO     131892   
+unix  3      [ ]         FLUJO      CONECTADO     133543   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133542   
+unix  3      [ ]         FLUJO      CONECTADO     134276   
+unix  3      [ ]         FLUJO      CONECTADO     131801   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     130710   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91780    
+unix  3      [ ]         FLUJO      CONECTADO     140640   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136374   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134456   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131550   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     104365   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38894    
+unix  3      [ ]         FLUJO      CONECTADO     137744   
+unix  3      [ ]         FLUJO      CONECTADO     135585   
+unix  3      [ ]         FLUJO      CONECTADO     132974   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133711   
+unix  3      [ ]         FLUJO      CONECTADO     130702   
+unix  2      [ ]         DGRAM      CONECTADO     27476    
+unix  3      [ ]         FLUJO      CONECTADO     150707   
+unix  3      [ ]         FLUJO      CONECTADO     132984   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133707   
+unix  3      [ ]         FLUJO      CONECTADO     130030   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131641   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29434    
+unix  3      [ ]         FLUJO      CONECTADO     134174   
+unix  3      [ ]         FLUJO      CONECTADO     131064   
+unix  3      [ ]         FLUJO      CONECTADO     19074    
+unix  3      [ ]         FLUJO      CONECTADO     131515   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     129670   
+unix  3      [ ]         FLUJO      CONECTADO     31519    
+unix  2      [ ]         DGRAM      CONECTADO     131536   
+unix  3      [ ]         FLUJO      CONECTADO     132134   
+unix  3      [ ]         FLUJO      CONECTADO     126935   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90770    
+unix  3      [ ]         FLUJO      CONECTADO     130712   
+unix  3      [ ]         FLUJO      CONECTADO     34810    
+unix  3      [ ]         FLUJO      CONECTADO     129572   
+unix  3      [ ]         FLUJO      CONECTADO     136302   
+unix  2      [ ]         DGRAM                    134987   
+unix  3      [ ]         FLUJO      CONECTADO     33206    
+unix  3      [ ]         FLUJO      CONECTADO     132289   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     149186   
+unix  3      [ ]         FLUJO      CONECTADO     129848   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130699   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     150166   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134822   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132498   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134509   
+unix  3      [ ]         FLUJO      CONECTADO     134391   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134386   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131792   
+unix  2      [ ]         DGRAM      CONECTADO     42531    
+unix  3      [ ]         FLUJO      CONECTADO     36444    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     19014    
+Conexiones activas de Internet (servidores w/o)
+Proto  Recib Enviad Dirección local         Dirección remota       Estado      
+tcp        0      0 aulaDAM2A-pc00:45214    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45988    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45168    a23-220-156-188.d:https ESTABLECIDO
+tcp        1      0 aulaDAM2A-pc00:58676    193.146.123.113:https   CLOSE_WAIT 
+tcp        0      0 aulaDAM2A-pc00:45184    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45982    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 localhost:49742         localhost:11300         ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:51540    mad41s13-in-f10.1:https TIME_WAIT  
+tcp        0      0 aulaDAM2A-pc00:45162    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:49810    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:43906    mad41s08-in-f10.1:https TIME_WAIT  
+tcp        0      0 aulaDAM2A-pc00:45200    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:45204    a23-220-156-188.d:https ESTABLECIDO
+tcp        0      0 localhost:11300         localhost:49742         ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:36858    aulaDAM2A-pc00:37965    TIME_WAIT  
+tcp6       0      0 aulaDAM2A-pc00:34764    aulaDAM2A-pc00:35975    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:37965    aulaDAM2A-pc00:40582    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:40582    aulaDAM2A-pc00:37965    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:53658    aulaDAM2A-pc00:37965    TIME_WAIT  
+tcp6       0      0 aulaDAM2A-pc00:35975    aulaDAM2A-pc00:34764    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:37240    aulaDAM2A-pc00:45773    TIME_WAIT  
+udp        0      0 aulaDAM2A-pc00:bootpc   172.23.140.92:bootps    ESTABLECIDO
+Sockets activos de dominio UNIX (servidores w/o)
+Proto RefCnt Flags       Type       State         I-Node   Ruta
+unix  2      [ ]         DGRAM      CONECTADO     38652    /var/lib/samba/private/msg.sock/1553
+unix  2      [ ]         DGRAM                    129568   /run/user/1005/systemd/notify
+unix  2      [ ]         DGRAM                    108389   /run/user/1001/systemd/notify
+unix  2      [ ]         DGRAM                    91784    /run/user/1006/systemd/notify
+unix  2      [ ]         DGRAM                    38890    /run/user/1004/systemd/notify
+unix  4      [ ]         DGRAM      CONECTADO     17717    /run/systemd/notify
+unix  2      [ ]         DGRAM                    37644    /var/lib/samba/private/msg.sock/1565
+unix  2      [ ]         DGRAM                    17743    /run/systemd/journal/syslog
+unix  27     [ ]         DGRAM      CONECTADO     17753    /run/systemd/journal/dev-log
+unix  11     [ ]         DGRAM      CONECTADO     17757    /run/systemd/journal/socket
+unix  2      [ ]         DGRAM      CONECTADO     39007    /var/lib/samba/private/msg.sock/1555
+unix  2      [ ]         DGRAM      CONECTADO     40715    /var/lib/samba/private/msg.sock/1550
+unix  2      [ ]         DGRAM      CONECTADO     40109    /var/lib/samba/private/msg.sock/1452
+unix  3      [ ]         SEQPACKET  CONECTADO     137300   @0001d
+unix  3      [ ]         SEQPACKET  CONECTADO     137298   @0001c
+unix  2      [ ]         DGRAM      CONECTADO     37492    /var/lib/samba/private/msg.sock/1538
+unix  2      [ ]         DGRAM      CONECTADO     38646    /var/lib/samba/private/msg.sock/1545
+unix  2      [ ]         DGRAM      CONECTADO     39006    /var/lib/samba/private/msg.sock/1554
+unix  3      [ ]         FLUJO      CONECTADO     135421   
+unix  3      [ ]         FLUJO      CONECTADO     133780   
+unix  3      [ ]         FLUJO      CONECTADO     131889   
+unix  3      [ ]         FLUJO      CONECTADO     131865   
+unix  3      [ ]         FLUJO      CONECTADO     131820   
+unix  3      [ ]         FLUJO      CONECTADO     134390   
+unix  3      [ ]         FLUJO      CONECTADO     134445   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131633   
+unix  3      [ ]         FLUJO      CONECTADO     127891   
+unix  3      [ ]         FLUJO      CONECTADO     134824   
+unix  3      [ ]         FLUJO      CONECTADO     134556   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31434    
+unix  3      [ ]         FLUJO      CONECTADO     33205    
+unix  3      [ ]         FLUJO      CONECTADO     130437   
+unix  3      [ ]         DGRAM      CONECTADO     38892    
+unix  3      [ ]         FLUJO      CONECTADO     30905    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133081   
+unix  3      [ ]         FLUJO      CONECTADO     130875   
+unix  2      [ ]         DGRAM      CONECTADO     130802   
+unix  3      [ ]         FLUJO      CONECTADO     132135   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     32370    
+unix  3      [ ]         FLUJO      CONECTADO     29588    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146987   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     136630   
+unix  3      [ ]         FLUJO      CONECTADO     129778   
+unix  3      [ ]         FLUJO      CONECTADO     133823   
+unix  3      [ ]         FLUJO      CONECTADO     131809   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     30060    
+unix  3      [ ]         FLUJO      CONECTADO     21133    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138109   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133179   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134440   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131647   
+unix  3      [ ]         FLUJO      CONECTADO     132595   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131854   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146351   
+unix  2      [ ]         DGRAM      CONECTADO     130311   
+unix  3      [ ]         FLUJO      CONECTADO     135921   
+unix  3      [ ]         FLUJO      CONECTADO     137343   
+unix  2      [ ]         DGRAM      CONECTADO     30510    
+unix  3      [ ]         FLUJO      CONECTADO     28901    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138820   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132144   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132114   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131786   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131625   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     91765    
+unix  3      [ ]         FLUJO      CONECTADO     135434   
+unix  3      [ ]         FLUJO      CONECTADO     134640   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134512   
+unix  3      [ ]         FLUJO      CONECTADO     131886   
+unix  3      [ ]         FLUJO      CONECTADO     131871   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131816   
+unix  3      [ ]         FLUJO      CONECTADO     31016    /run/avahi-daemon/socket
+unix  3      [ ]         FLUJO      CONECTADO     132927   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134562   
+unix  3      [ ]         FLUJO      CONECTADO     30898    
+unix  3      [ ]         FLUJO      CONECTADO     29595    
+unix  2      [ ]         DGRAM                    30875    
+unix  3      [ ]         FLUJO      CONECTADO     133315   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     129850   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131523   
+unix  3      [ ]         FLUJO      CONECTADO     150218   
+unix  3      [ ]         FLUJO      CONECTADO     133066   
+unix  3      [ ]         FLUJO      CONECTADO     132040   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130713   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40815    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     37835    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136910   
+unix  3      [ ]         FLUJO      CONECTADO     37499    
+unix  3      [ ]         FLUJO      CONECTADO     138531   
+unix  3      [ ]         FLUJO      CONECTADO     131488   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     32266    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     148777   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134510   
+unix  3      [ ]         FLUJO      CONECTADO     133612   
+unix  3      [ ]         FLUJO      CONECTADO     134172   
+unix  3      [ ]         FLUJO      CONECTADO     133822   
+unix  3      [ ]         FLUJO      CONECTADO     131804   
+unix  3      [ ]         FLUJO      CONECTADO     30140    
+unix  2      [ ]         DGRAM      CONECTADO     19139    
+unix  3      [ ]         FLUJO      CONECTADO     131938   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     127890   
+unix  3      [ ]         FLUJO      CONECTADO     133314   
+unix  3      [ ]         FLUJO      CONECTADO     131660   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     29204    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129721   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131436   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     140123   
+unix  3      [ ]         FLUJO      CONECTADO     132491   
+unix  3      [ ]         FLUJO      CONECTADO     132411   
+unix  3      [ ]         FLUJO      CONECTADO     126932   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     90774    
+unix  3      [ ]         FLUJO      CONECTADO     137747   
+unix  3      [ ]         FLUJO      CONECTADO     132111   
+unix  3      [ ]         FLUJO      CONECTADO     131778   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131638   
+unix  3      [ ]         FLUJO      CONECTADO     131360   
+unix  2      [ ]         FLUJO      CONECTADO     40726    
+unix  3      [ ]         SEQPACKET  CONECTADO     136305   
+unix  3      [ ]         FLUJO      CONECTADO     130321   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     32877    
+unix  2      [ ]         DGRAM      CONECTADO     31018    
+unix  2      [ ]         DGRAM      CONECTADO     29694    
+unix  2      [ ]         FLUJO                    151547   
+unix  3      [ ]         FLUJO      CONECTADO     131939   
+unix  3      [ ]         FLUJO      CONECTADO     131925   @/dbus-vfs-daemon/socket-s7Kw5PXP
+unix  3      [ ]         FLUJO      CONECTADO     131879   
+unix  3      [ ]         FLUJO      CONECTADO     131866   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131810   
+unix  3      [ ]         FLUJO      CONECTADO     134216   
+unix  3      [ ]         FLUJO      CONECTADO     126828   
+unix  3      [ ]         FLUJO      CONECTADO     127902   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM                    32263    
+unix  3      [ ]         FLUJO      CONECTADO     28758    
+unix  3      [ ]         FLUJO      CONECTADO     129690   
+unix  3      [ ]         FLUJO      CONECTADO     132239   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130439   
+unix  3      [ ]         FLUJO      CONECTADO     27912    
+unix  2      [ ]         FLUJO      CONECTADO     151943   
+unix  3      [ ]         FLUJO      CONECTADO     133084   
+unix  3      [ ]         FLUJO      CONECTADO     130696   
+unix  3      [ ]         FLUJO      CONECTADO     97969    /run/user/1006/bus
+unix  2      [ ]         FLUJO      CONECTADO     147932   
+unix  3      [ ]         FLUJO      CONECTADO     131645   
+unix  3      [ ]         FLUJO      CONECTADO     136300   
+unix  3      [ ]         FLUJO      CONECTADO     133558   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136297   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131907   
+unix  3      [ ]         FLUJO      CONECTADO     131814   
+unix  3      [ ]         FLUJO      CONECTADO     29130    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     149187   
+unix  3      [ ]         FLUJO      CONECTADO     129779   
+unix  3      [ ]         FLUJO      CONECTADO     136629   
+unix  3      [ ]         FLUJO      CONECTADO     132346   
+unix  3      [ ]         FLUJO      CONECTADO     131432   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     150158   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130330   
+unix  3      [ ]         SEQPACKET  CONECTADO     137338   
+unix  3      [ ]         FLUJO      CONECTADO     132502   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     28899    
+unix  3      [ ]         FLUJO      CONECTADO     136301   
+unix  3      [ ]         FLUJO      CONECTADO     30908    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29590    
+unix  3      [ ]         FLUJO      CONECTADO     29292    
+unix  3      [ ]         FLUJO      CONECTADO     131803   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131654   
+unix  3      [ ]         FLUJO      CONECTADO     132287   
+unix  3      [ ]         FLUJO      CONECTADO     91788    
+unix  3      [ ]         FLUJO      CONECTADO     135425   
+unix  3      [ ]         FLUJO      CONECTADO     131954   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131848   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133540   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131800   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40245    
+unix  3      [ ]         FLUJO      CONECTADO     26492    
+unix  3      [ ]         FLUJO      CONECTADO     37500    
+unix  3      [ ]         FLUJO      CONECTADO     134449   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    35423    
+unix  3      [ ]         FLUJO      CONECTADO     32371    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135918   
+unix  3      [ ]         FLUJO      CONECTADO     138368   
+unix  3      [ ]         FLUJO      CONECTADO     133079   
+unix  3      [ ]         FLUJO      CONECTADO     136321   
+unix  3      [ ]         FLUJO      CONECTADO     130716   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     38891    
+unix  3      [ ]         DGRAM      CONECTADO     27744    
+unix  3      [ ]         DGRAM      CONECTADO     27742    
+unix  3      [ ]         FLUJO      CONECTADO     132307   
+unix  3      [ ]         FLUJO      CONECTADO     36273    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148682   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     41640    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     149189   
+unix  3      [ ]         FLUJO      CONECTADO     131829   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134398   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     38458    
+unix  3      [ ]         FLUJO      CONECTADO     137328   
+unix  3      [ ]         FLUJO      CONECTADO     130872   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     91785    
+unix  3      [ ]         FLUJO      CONECTADO     24484    
+unix  3      [ ]         FLUJO      CONECTADO     133088   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     132389   
+unix  3      [ ]         FLUJO      CONECTADO     129601   
+unix  3      [ ]         FLUJO      CONECTADO     137775   
+unix  3      [ ]         FLUJO      CONECTADO     129024   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135920   
+unix  3      [ ]         SEQPACKET  CONECTADO     137347   
+unix  3      [ ]         FLUJO      CONECTADO     129714   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132208   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129666   
+unix  3      [ ]         FLUJO      CONECTADO     38871    
+unix  3      [ ]         FLUJO      CONECTADO     133663   
+unix  3      [ ]         FLUJO      CONECTADO     133740   
+unix  3      [ ]         FLUJO      CONECTADO     129783   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     126930   
+unix  3      [ ]         FLUJO      CONECTADO     112494   
+unix  3      [ ]         FLUJO      CONECTADO     90775    
+unix  3      [ ]         FLUJO      CONECTADO     39134    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132482   
+unix  3      [ ]         FLUJO      CONECTADO     129677   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     36964    
+unix  3      [ ]         FLUJO      CONECTADO     138693   
+unix  3      [ ]         SEQPACKET  CONECTADO     137296   
+unix  3      [ ]         FLUJO      CONECTADO     132042   
+unix  3      [ ]         FLUJO      CONECTADO     132018   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133569   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134416   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133557   
+unix  3      [ ]         FLUJO      CONECTADO     131811   
+unix  3      [ ]         FLUJO      CONECTADO     134392   
+unix  3      [ ]         FLUJO      CONECTADO     134273   
+unix  3      [ ]         FLUJO      CONECTADO     131766   
+unix  3      [ ]         FLUJO      CONECTADO     129854   
+unix  3      [ ]         FLUJO      CONECTADO     38194    
+unix  3      [ ]         FLUJO      CONECTADO     132288   
+unix  2      [ ]         DGRAM      CONECTADO     131236   
+unix  3      [ ]         FLUJO      CONECTADO     136295   
+unix  3      [ ]         FLUJO      CONECTADO     136232   
+unix  3      [ ]         FLUJO      CONECTADO     134563   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31398    
+unix  3      [ ]         FLUJO      CONECTADO     138366   
+unix  3      [ ]         FLUJO      CONECTADO     126933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135893   
+unix  3      [ ]         FLUJO      CONECTADO     32837    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     28375    
+unix  2      [ ]         DGRAM      CONECTADO     28691    
+unix  3      [ ]         DGRAM      CONECTADO     17719    
+unix  3      [ ]         FLUJO      CONECTADO     99825    
+unix  3      [ ]         FLUJO      CONECTADO     33147    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136504   
+unix  3      [ ]         FLUJO      CONECTADO     136373   
+unix  3      [ ]         FLUJO      CONECTADO     130704   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     135436   
+unix  3      [ ]         FLUJO      CONECTADO     134462   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133710   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131822   
+unix  3      [ ]         FLUJO      CONECTADO     40095    
+unix  3      [ ]         FLUJO      CONECTADO     133279   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133167   
+unix  3      [ ]         FLUJO      CONECTADO     131721   
+unix  3      [ ]         FLUJO      CONECTADO     131634   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33138    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132599   
+unix  3      [ ]         FLUJO      CONECTADO     130709   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137344   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130434   
+unix  3      [ ]         FLUJO      CONECTADO     24265    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131624   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129725   
+unix  3      [ ]         FLUJO      CONECTADO     129716   
+unix  3      [ ]         FLUJO      CONECTADO     135923   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     138602   
+unix  3      [ ]         FLUJO      CONECTADO     131583   
+unix  3      [ ]         FLUJO      CONECTADO     32763    
+unix  3      [ ]         FLUJO      CONECTADO     132508   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131828   
+unix  3      [ ]         FLUJO      CONECTADO     132971   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134836   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131932   
+unix  3      [ ]         FLUJO      CONECTADO     131838   
+unix  3      [ ]         FLUJO      CONECTADO     133553   
+unix  3      [ ]         FLUJO      CONECTADO     134278   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133286   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131795   
+unix  3      [ ]         FLUJO      CONECTADO     131793   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132981   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134608   
+unix  3      [ ]         FLUJO      CONECTADO     30907    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29435    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148389   
+unix  3      [ ]         FLUJO      CONECTADO     148678   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132179   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     138821   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140122   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     133719   
+unix  3      [ ]         FLUJO      CONECTADO     132308   
+unix  3      [ ]         FLUJO      CONECTADO     130876   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136893   
+unix  3      [ ]         FLUJO      CONECTADO     136588   
+unix  3      [ ]         FLUJO      CONECTADO     132008   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     100502   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137479   
+unix  3      [ ]         FLUJO      CONECTADO     33150    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     147935   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130937   
+unix  3      [ ]         FLUJO      CONECTADO     132301   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     135437   
+unix  3      [ ]         FLUJO      CONECTADO     132495   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131844   
+unix  3      [ ]         FLUJO      CONECTADO     134555   
+unix  3      [ ]         FLUJO      CONECTADO     147938   
+unix  3      [ ]         FLUJO      CONECTADO     131662   
+unix  3      [ ]         FLUJO      CONECTADO     131632   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132226   
+unix  3      [ ]         FLUJO      CONECTADO     132131   
+unix  3      [ ]         FLUJO      CONECTADO     132112   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     39002    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     129570   
+unix  3      [ ]         FLUJO      CONECTADO     138365   
+unix  3      [ ]         FLUJO      CONECTADO     133665   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     126952   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134825   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134466   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     129594   
+unix  3      [ ]         FLUJO      CONECTADO     29591    
+unix  3      [ ]         FLUJO      CONECTADO     149188   
+unix  3      [ ]         FLUJO      CONECTADO     135424   
+unix  3      [ ]         FLUJO      CONECTADO     136298   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133819   
+unix  3      [ ]         FLUJO      CONECTADO     132496   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131817   
+unix  3      [ ]         FLUJO      CONECTADO     131806   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133535   
+unix  3      [ ]         FLUJO      CONECTADO     131796   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130029   
+unix  3      [ ]         FLUJO      CONECTADO     93297    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     32764    
+unix  3      [ ]         FLUJO      CONECTADO     136333   
+unix  3      [ ]         FLUJO      CONECTADO     132492   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     97968    
+unix  3      [ ]         FLUJO      CONECTADO     130348   
+unix  3      [ ]         FLUJO      CONECTADO     135916   
+unix  3      [ ]         FLUJO      CONECTADO     133717   
+unix  2      [ ]         DGRAM      CONECTADO     28974    
+unix  3      [ ]         FLUJO      CONECTADO     27534    
+unix  3      [ ]         FLUJO      CONECTADO     133708   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133613   
+unix  3      [ ]         FLUJO      CONECTADO     133181   
+unix  3      [ ]         FLUJO      CONECTADO     42379    
+unix  3      [ ]         FLUJO      CONECTADO     30904    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134450   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     34806    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     18894    
+unix  3      [ ]         FLUJO      CONECTADO     131823   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131785   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133347   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129717   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129689   
+unix  3      [ ]         FLUJO      CONECTADO     138530   
+unix  3      [ ]         FLUJO      CONECTADO     132110   
+unix  3      [ ]         FLUJO      CONECTADO     129667   
+unix  3      [ ]         FLUJO      CONECTADO     130715   
+unix  3      [ ]         FLUJO      CONECTADO     132497   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130423   
+unix  2      [ ]         DGRAM      CONECTADO     38880    
+unix  3      [ ]         FLUJO      CONECTADO     27679    
+unix  3      [ ]         FLUJO      CONECTADO     134846   
+unix  3      [ ]         FLUJO      CONECTADO     134648   
+unix  3      [ ]         FLUJO      CONECTADO     30889    
+unix  3      [ ]         FLUJO      CONECTADO     30903    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130453   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91774    
+unix  3      [ ]         FLUJO      CONECTADO     29057    /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONECTADO     137301   
+unix  3      [ ]         FLUJO      CONECTADO     131937   
+unix  3      [ ]         FLUJO      CONECTADO     133561   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131818   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134270   
+unix  3      [ ]         FLUJO      CONECTADO     131765   
+unix  2      [ ]         DGRAM      CONECTADO     26495    
+unix  3      [ ]         DGRAM      CONECTADO     20747    
+unix  3      [ ]         FLUJO      CONECTADO     140643   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     136503   
+unix  3      [ ]         FLUJO      CONECTADO     131933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     97955    
+unix  2      [ ]         DGRAM      CONECTADO     27739    
+unix  3      [ ]         FLUJO      CONECTADO     133085   
+unix  3      [ ]         FLUJO      CONECTADO     34772    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135892   
+unix  3      [ ]         FLUJO      CONECTADO     135560   
+unix  3      [ ]         FLUJO      CONECTADO     130830   
+unix  3      [ ]         FLUJO      CONECTADO     32881    
+unix  3      [ ]         FLUJO      CONECTADO     133281   
+unix  3      [ ]         FLUJO      CONECTADO     131722   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131659   
+unix  3      [ ]         FLUJO      CONECTADO     95427    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30891    
+unix  3      [ ]         FLUJO      CONECTADO     131771   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     135439   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131893   
+unix  3      [ ]         FLUJO      CONECTADO     131870   
+unix  3      [ ]         FLUJO      CONECTADO     132500   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134277   
+unix  3      [ ]         FLUJO      CONECTADO     29051    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138692   
+unix  3      [ ]         FLUJO      CONECTADO     134384   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     38459    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136312   
+unix  3      [ ]         FLUJO      CONECTADO     134442   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131646   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129713   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130398   
+unix  3      [ ]         FLUJO      CONECTADO     150217   
+unix  3      [ ]         FLUJO      CONECTADO     130267   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     34809    
+unix  3      [ ]         FLUJO      CONECTADO     29808    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137774   
+unix  3      [ ]         FLUJO      CONECTADO     138601   
+unix  3      [ ]         FLUJO      CONECTADO     132509   
+unix  2      [ ]         DGRAM                    129680   
+unix  2      [ ]         DGRAM      CONECTADO     108377   
+unix  3      [ ]         FLUJO      CONECTADO     132972   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     137330   
+unix  3      [ ]         FLUJO      CONECTADO     134511   
+unix  3      [ ]         FLUJO      CONECTADO     131847   
+unix  3      [ ]         FLUJO      CONECTADO     133554   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     88841    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131059   
+unix  3      [ ]         FLUJO      CONECTADO     129841   
+unix  3      [ ]         FLUJO      CONECTADO     131525   
+unix  3      [ ]         SEQPACKET  CONECTADO     136304   
+unix  3      [ ]         FLUJO      CONECTADO     132510   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133473   
+unix  3      [ ]         FLUJO      CONECTADO     131631   
+unix  3      [ ]         FLUJO      CONECTADO     32885    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     30897    
+unix  3      [ ]         FLUJO      CONECTADO     29203    
+unix  3      [ ]         FLUJO      CONECTADO     130457   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131553   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     27743    
+unix  3      [ ]         FLUJO      CONECTADO     27844    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136509   
+unix  2      [ ]         DGRAM      CONECTADO     126929   
+unix  3      [ ]         FLUJO      CONECTADO     37655    
+unix  3      [ ]         FLUJO      CONECTADO     129676   
+unix  3      [ ]         FLUJO      CONECTADO     148679   
+unix  3      [ ]         FLUJO      CONECTADO     137327   
+unix  3      [ ]         FLUJO      CONECTADO     92487    
+unix  3      [ ]         FLUJO      CONECTADO     38638    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132983   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131903   
+unix  3      [ ]         FLUJO      CONECTADO     134417   
+unix  3      [ ]         FLUJO      CONECTADO     134175   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131655   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131513   
+unix  3      [ ]         FLUJO      CONECTADO     135586   
+unix  3      [ ]         SEQPACKET  CONECTADO     137346   
+unix  3      [ ]         FLUJO      CONECTADO     30292    
+unix  2      [ ]         DGRAM      CONECTADO     130305   
+unix  3      [ ]         FLUJO      CONECTADO     136171   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     132521   
+unix  3      [ ]         FLUJO      CONECTADO     131552   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130350   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     108383   
+unix  3      [ ]         FLUJO      CONECTADO     90776    
+unix  3      [ ]         FLUJO      CONECTADO     136313   
+unix  3      [ ]         FLUJO      CONECTADO     133178   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132517   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131924   
+unix  3      [ ]         FLUJO      CONECTADO     133562   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131840   
+unix  3      [ ]         FLUJO      CONECTADO     134397   
+unix  3      [ ]         FLUJO      CONECTADO     133130   /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     15331    
+unix  3      [ ]         FLUJO      CONECTADO     134641   
+unix  3      [ ]         FLUJO      CONECTADO     134559   
+unix  3      [ ]         FLUJO      CONECTADO     132501   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31017    
+unix  3      [ ]         FLUJO      CONECTADO     133080   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     132597   
+unix  3      [ ]         FLUJO      CONECTADO     130707   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130706   
+unix  3      [ ]         FLUJO      CONECTADO     28824    
+unix  3      [ ]         FLUJO      CONECTADO     135559   
+unix  3      [ ]         FLUJO      CONECTADO     126837   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     27684    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131516   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140126   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130440   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130353   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90777    /run/user/1004/bus
+unix  3      [ ]         FLUJO      CONECTADO     148388   
+unix  3      [ ]         FLUJO      CONECTADO     132019   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133620   
+unix  3      [ ]         FLUJO      CONECTADO     131648   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133821   
+unix  3      [ ]         FLUJO      CONECTADO     138649   
+unix  3      [ ]         FLUJO      CONECTADO     131904   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133716   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     26496    
+unix  3      [ ]         FLUJO      CONECTADO     148677   
+unix  3      [ ]         FLUJO      CONECTADO     131061   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     38655    
+unix  3      [ ]         FLUJO      CONECTADO     140642   
+unix  3      [ ]         FLUJO      CONECTADO     129027   
+unix  3      [ ]         FLUJO      CONECTADO     132519   
+unix  3      [ ]         FLUJO      CONECTADO     131767   @/tmp/dbus-twe2lxcVjH
+unix  2      [ ]         DGRAM      CONECTADO     97966    
+unix  3      [ ]         FLUJO      CONECTADO     35996    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135917   
+unix  3      [ ]         FLUJO      CONECTADO     134606   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131622   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131928   @/dbus-vfs-daemon/socket-OgfUdeKN
+unix  3      [ ]         FLUJO      CONECTADO     134517   
+unix  3      [ ]         FLUJO      CONECTADO     133169   
+unix  3      [ ]         FLUJO      CONECTADO     131724   
+unix  3      [ ]         FLUJO      CONECTADO     31399    /run/rpcbind.sock
+unix  3      [ ]         FLUJO      CONECTADO     32861    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30906    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135435   
+unix  3      [ ]         FLUJO      CONECTADO     135427   
+unix  3      [ ]         FLUJO      CONECTADO     133715   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134461   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131890   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131839   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133550   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     92770    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38462    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138645   
+unix  3      [ ]         FLUJO      CONECTADO     137745   
+unix  3      [ ]         FLUJO      CONECTADO     132223   
+unix  3      [ ]         FLUJO      CONECTADO     132143   
+unix  3      [ ]         FLUJO      CONECTADO     32733    
+unix  3      [ ]         FLUJO      CONECTADO     130443   
+unix  3      [ ]         DGRAM      CONECTADO     129569   
+unix  3      [ ]         FLUJO      CONECTADO     29819    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137382   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136320   
+unix  3      [ ]         FLUJO      CONECTADO     130708   
+unix  3      [ ]         FLUJO      CONECTADO     133127   
+unix  3      [ ]         FLUJO      CONECTADO     131653   
+unix  3      [ ]         FLUJO      CONECTADO     131586   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         SEQPACKET  CONECTADO     137299   
+unix  3      [ ]         FLUJO      CONECTADO     133539   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130026   
+unix  3      [ ]         FLUJO      CONECTADO     37437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38197    
+unix  3      [ ]         FLUJO      CONECTADO     134463   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134271   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     30902    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30901    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138097   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134553   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133621   
+unix  3      [ ]         FLUJO      CONECTADO     132448   
+unix  3      [ ]         FLUJO      CONECTADO     130425   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     108390   
+unix  3      [ ]         FLUJO      CONECTADO     97967    
+unix  3      [ ]         FLUJO      CONECTADO     137480   
+unix  3      [ ]         FLUJO      CONECTADO     129011   
+unix  3      [ ]         FLUJO      CONECTADO     135919   
+unix  2      [ ]         DGRAM      CONECTADO     30581    
+unix  3      [ ]         FLUJO      CONECTADO     150706   
+unix  3      [ ]         FLUJO      CONECTADO     130424   
+unix  3      [ ]         FLUJO      CONECTADO     134935   
+unix  3      [ ]         FLUJO      CONECTADO     30899    
+unix  3      [ ]         FLUJO      CONECTADO     30890    
+unix  3      [ ]         FLUJO      CONECTADO     29293    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131524   
+unix  3      [ ]         FLUJO      CONECTADO     129852   
+unix  3      [ ]         FLUJO      CONECTADO     131639   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     40084    
+unix  3      [ ]         SEQPACKET  CONECTADO     137337   
+unix  3      [ ]         FLUJO      CONECTADO     132041   
+unix  3      [ ]         FLUJO      CONECTADO     131940   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131891   
+unix  3      [ ]         FLUJO      CONECTADO     131875   
+unix  3      [ ]         FLUJO      CONECTADO     131815   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134274   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131775   
+unix  3      [ ]         FLUJO      CONECTADO     132149   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137746   
+unix  2      [ ]         FLUJO      CONECTADO     138479   
+unix  3      [ ]         FLUJO      CONECTADO     126934   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     32265    
+unix  3      [ ]         FLUJO      CONECTADO     134937   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133664   
+unix  3      [ ]         DGRAM      CONECTADO     17718    
+unix  3      [ ]         FLUJO      CONECTADO     140128   
+unix  3      [ ]         FLUJO      CONECTADO     132222   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     38886    
+unix  3      [ ]         FLUJO      CONECTADO     27657    
+unix  3      [ ]         FLUJO      CONECTADO     130395   
+unix  3      [ ]         FLUJO      CONECTADO     27682    
+unix  3      [ ]         FLUJO      CONECTADO     134455   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130718   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     130444   
+unix  3      [ ]         FLUJO      CONECTADO     32626    
+unix  3      [ ]         FLUJO      CONECTADO     29046    
+unix  3      [ ]         FLUJO      CONECTADO     27843    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140644   
+unix  3      [ ]         FLUJO      CONECTADO     136894   
+unix  3      [ ]         FLUJO      CONECTADO     136510   
+unix  3      [ ]         FLUJO      CONECTADO     131901   
+unix  3      [ ]         FLUJO      CONECTADO     135422   
+unix  3      [ ]         FLUJO      CONECTADO     134419   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132300   
+unix  3      [ ]         FLUJO      CONECTADO     134513   
+unix  3      [ ]         FLUJO      CONECTADO     133128   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131663   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31188    
+unix  3      [ ]         FLUJO      CONECTADO     132218   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     36790    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131723   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     125902   
+unix  3      [ ]         FLUJO      CONECTADO     138646   
+unix  3      [ ]         FLUJO      CONECTADO     131534   
+unix  3      [ ]         FLUJO      CONECTADO     126918   
+unix  3      [ ]         FLUJO      CONECTADO     34771    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     108391   
+unix  3      [ ]         FLUJO      CONECTADO     37463    
+unix  3      [ ]         FLUJO      CONECTADO     147941   
+unix  3      [ ]         FLUJO      CONECTADO     135432   
+unix  2      [ ]         DGRAM      CONECTADO     133820   
+unix  3      [ ]         FLUJO      CONECTADO     131841   
+unix  3      [ ]         FLUJO      CONECTADO     133538   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131808   
+unix  3      [ ]         FLUJO      CONECTADO     133406   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131777   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     148776   
+unix  3      [ ]         FLUJO      CONECTADO     130027   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131656   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129559   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     127892   
+unix  3      [ ]         FLUJO      CONECTADO     38656    
+unix  3      [ ]         FLUJO      CONECTADO     136294   
+unix  3      [ ]         FLUJO      CONECTADO     32882    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31111    
+unix  3      [ ]         FLUJO      CONECTADO     136181   
+unix  3      [ ]         FLUJO      CONECTADO     132973   
+unix  2      [ ]         DGRAM                    133729   
+unix  3      [ ]         FLUJO      CONECTADO     130717   
+unix  3      [ ]         FLUJO      CONECTADO     24485    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30900    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     127893   /run/user/1001/bus
+unix  3      [ ]         FLUJO      CONECTADO     24270    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140129   
+unix  2      [ ]         DGRAM      CONECTADO     35394    
+unix  3      [ ]         FLUJO      CONECTADO     144166   
+unix  3      [ ]         FLUJO      CONECTADO     137481   
+unix  3      [ ]         FLUJO      CONECTADO     131058   
+unix  3      [ ]         FLUJO      CONECTADO     35647    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131915   
+unix  3      [ ]         FLUJO      CONECTADO     131953   
+unix  3      [ ]         FLUJO      CONECTADO     134460   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     31284    
+unix  3      [ ]         FLUJO      CONECTADO     134518   
+unix  3      [ ]         FLUJO      CONECTADO     134451   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133278   
+unix  3      [ ]         FLUJO      CONECTADO     130938   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131640   
+unix  3      [ ]         FLUJO      CONECTADO     132503   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130697   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131623   /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONECTADO     27741    
+unix  3      [ ]         FLUJO      CONECTADO     132227   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     108368   
+unix  3      [ ]         FLUJO      CONECTADO     126649   
+unix  3      [ ]         FLUJO      CONECTADO     126618   /run/systemd/journal/stdout
+unix  2      [ ]         FLUJO      CONECTADO     154104   
+unix  3      [ ]         FLUJO      CONECTADO     129847   
+unix  3      [ ]         DGRAM      CONECTADO     91786    
+unix  3      [ ]         SEQPACKET  CONECTADO     137295   
+unix  3      [ ]         FLUJO      CONECTADO     132012   
+unix  3      [ ]         FLUJO      CONECTADO     133611   
+unix  3      [ ]         FLUJO      CONECTADO     131853   
+unix  3      [ ]         FLUJO      CONECTADO     134279   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134268   
+unix  3      [ ]         FLUJO      CONECTADO     134217   
+unix  3      [ ]         FLUJO      CONECTADO     30136    
+unix  3      [ ]         DGRAM      CONECTADO     20746    
+unix  3      [ ]         FLUJO      CONECTADO     136310   
+unix  3      [ ]         FLUJO      CONECTADO     131955   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     34780    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30909    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131480   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131479   
+unix  3      [ ]         FLUJO      CONECTADO     137482   
+unix  3      [ ]         FLUJO      CONECTADO     136589   
+unix  3      [ ]         FLUJO      CONECTADO     132315   
+unix  3      [ ]         FLUJO      CONECTADO     111408   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129718   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38938    
+unix  3      [ ]         FLUJO      CONECTADO     136169   
+unix  3      [ ]         FLUJO      CONECTADO     133082   
+unix  3      [ ]         FLUJO      CONECTADO     133720   
+unix  3      [ ]         FLUJO      CONECTADO     131650   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     28968    
+unix  3      [ ]         FLUJO      CONECTADO     27601    
+unix  3      [ ]         FLUJO      CONECTADO     130909   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131725   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     94697    
+unix  3      [ ]         FLUJO      CONECTADO     131905   
+unix  3      [ ]         FLUJO      CONECTADO     33202    
+unix  3      [ ]         FLUJO      CONECTADO     138694   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135438   
+unix  3      [ ]         FLUJO      CONECTADO     131887   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131790   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131060   
+unix  3      [ ]         FLUJO      CONECTADO     132314   
+unix  3      [ ]         FLUJO      CONECTADO     129745   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     126931   
+unix  3      [ ]         FLUJO      CONECTADO     126876   
+unix  3      [ ]         FLUJO      CONECTADO     114921   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31805    
+unix  3      [ ]         FLUJO      CONECTADO     129715   
+unix  3      [ ]         FLUJO      CONECTADO     108393   
+unix  3      [ ]         DGRAM      CONECTADO     36965    
+unix  3      [ ]         FLUJO      CONECTADO     130456   
+unix  3      [ ]         FLUJO      CONECTADO     28208    
+unix  3      [ ]         FLUJO      CONECTADO     133067   
+unix  3      [ ]         FLUJO      CONECTADO     129722   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33803    
+unix  3      [ ]         FLUJO      CONECTADO     132277   
+unix  3      [ ]         FLUJO      CONECTADO     131476   
+unix  3      [ ]         FLUJO      CONECTADO     136303   
+unix  3      [ ]         FLUJO      CONECTADO     37945    
+unix  3      [ ]         FLUJO      CONECTADO     33129    
+unix  3      [ ]         FLUJO      CONECTADO     135431   
+unix  3      [ ]         FLUJO      CONECTADO     133779   
+unix  3      [ ]         FLUJO      CONECTADO     131894   
+unix  3      [ ]         FLUJO      CONECTADO     131892   
+unix  3      [ ]         FLUJO      CONECTADO     133543   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133542   
+unix  3      [ ]         FLUJO      CONECTADO     134276   
+unix  3      [ ]         FLUJO      CONECTADO     131801   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     130710   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91780    
+unix  3      [ ]         FLUJO      CONECTADO     140640   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136374   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134456   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131550   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     104365   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38894    
+unix  3      [ ]         FLUJO      CONECTADO     137744   
+unix  3      [ ]         FLUJO      CONECTADO     135585   
+unix  3      [ ]         FLUJO      CONECTADO     132974   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133711   
+unix  3      [ ]         FLUJO      CONECTADO     130702   
+unix  2      [ ]         DGRAM      CONECTADO     27476    
+unix  3      [ ]         FLUJO      CONECTADO     150707   
+unix  3      [ ]         FLUJO      CONECTADO     132984   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133707   
+unix  3      [ ]         FLUJO      CONECTADO     130030   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131641   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29434    
+unix  3      [ ]         FLUJO      CONECTADO     134174   
+unix  3      [ ]         FLUJO      CONECTADO     131064   
+unix  3      [ ]         FLUJO      CONECTADO     19074    
+unix  3      [ ]         FLUJO      CONECTADO     131515   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     129670   
+unix  3      [ ]         FLUJO      CONECTADO     31519    
+unix  2      [ ]         DGRAM      CONECTADO     131536   
+unix  3      [ ]         FLUJO      CONECTADO     132134   
+unix  3      [ ]         FLUJO      CONECTADO     126935   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90770    
+unix  3      [ ]         FLUJO      CONECTADO     130712   
+unix  3      [ ]         FLUJO      CONECTADO     34810    
+unix  3      [ ]         FLUJO      CONECTADO     129572   
+unix  3      [ ]         FLUJO      CONECTADO     136302   
+unix  2      [ ]         DGRAM                    134987   
+unix  3      [ ]         FLUJO      CONECTADO     33206    
+unix  3      [ ]         FLUJO      CONECTADO     132289   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     149186   
+unix  3      [ ]         FLUJO      CONECTADO     129848   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130699   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     150166   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134822   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132498   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134509   
+unix  3      [ ]         FLUJO      CONECTADO     134391   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134386   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131792   
+unix  2      [ ]         DGRAM      CONECTADO     42531    
+unix  3      [ ]         FLUJO      CONECTADO     36444    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     19014    
+Conexiones activas de Internet (servidores w/o)
+Proto  Recib Enviad Dirección local         Dirección remota       Estado      
+tcp        0      0 aulaDAM2A-pc00:45988    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 localhost:49742         localhost:11300         ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:49810    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 aulaDAM2A-pc00:37702    193.146.123.52:https    ESTABLECIDO
+tcp        0      0 localhost:11300         localhost:49742         ESTABLECIDO
+tcp        0      0 localhost:11300         localhost:49742         ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:40582    aulaDAM2A-pc00:37965    TIME_WAIT  
+tcp6       0      0 aulaDAM2A-pc00:40283    aulaDAM2A-pc00:54302    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:43088    aulaDAM2A-pc00:37965    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:54302    aulaDAM2A-pc00:40283    ESTABLECIDO
+tcp6       0      0 aulaDAM2A-pc00:37965    aulaDAM2A-pc00:43088    ESTABLECIDO
+udp        0      0 aulaDAM2A-pc00:bootpc   172.23.140.92:bootps    ESTABLECIDO
+Sockets activos de dominio UNIX (servidores w/o)
+Proto RefCnt Flags       Type       State         I-Node   Ruta
+unix  2      [ ]         DGRAM      CONECTADO     38652    /var/lib/samba/private/msg.sock/1553
+unix  2      [ ]         DGRAM                    129568   /run/user/1005/systemd/notify
+unix  2      [ ]         DGRAM                    108389   /run/user/1001/systemd/notify
+unix  2      [ ]         DGRAM                    91784    /run/user/1006/systemd/notify
+unix  2      [ ]         DGRAM                    38890    /run/user/1004/systemd/notify
+unix  4      [ ]         DGRAM      CONECTADO     17717    /run/systemd/notify
+unix  2      [ ]         DGRAM                    37644    /var/lib/samba/private/msg.sock/1565
+unix  2      [ ]         DGRAM                    17743    /run/systemd/journal/syslog
+unix  27     [ ]         DGRAM      CONECTADO     17753    /run/systemd/journal/dev-log
+unix  11     [ ]         DGRAM      CONECTADO     17757    /run/systemd/journal/socket
+unix  2      [ ]         DGRAM      CONECTADO     39007    /var/lib/samba/private/msg.sock/1555
+unix  2      [ ]         DGRAM      CONECTADO     40715    /var/lib/samba/private/msg.sock/1550
+unix  2      [ ]         DGRAM      CONECTADO     40109    /var/lib/samba/private/msg.sock/1452
+unix  3      [ ]         SEQPACKET  CONECTADO     137300   @0001d
+unix  3      [ ]         SEQPACKET  CONECTADO     137298   @0001c
+unix  2      [ ]         DGRAM      CONECTADO     37492    /var/lib/samba/private/msg.sock/1538
+unix  2      [ ]         DGRAM      CONECTADO     38646    /var/lib/samba/private/msg.sock/1545
+unix  2      [ ]         DGRAM      CONECTADO     39006    /var/lib/samba/private/msg.sock/1554
+unix  3      [ ]         FLUJO      CONECTADO     135421   
+unix  3      [ ]         FLUJO      CONECTADO     133780   
+unix  3      [ ]         FLUJO      CONECTADO     131889   
+unix  3      [ ]         FLUJO      CONECTADO     131865   
+unix  3      [ ]         FLUJO      CONECTADO     131820   
+unix  3      [ ]         FLUJO      CONECTADO     134390   
+unix  3      [ ]         FLUJO      CONECTADO     134445   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131633   
+unix  3      [ ]         FLUJO      CONECTADO     127891   
+unix  3      [ ]         FLUJO      CONECTADO     134824   
+unix  3      [ ]         FLUJO      CONECTADO     134556   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31434    
+unix  3      [ ]         FLUJO      CONECTADO     33205    
+unix  3      [ ]         FLUJO      CONECTADO     130437   
+unix  3      [ ]         DGRAM      CONECTADO     38892    
+unix  3      [ ]         FLUJO      CONECTADO     30905    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133081   
+unix  3      [ ]         FLUJO      CONECTADO     130875   
+unix  2      [ ]         DGRAM      CONECTADO     130802   
+unix  3      [ ]         FLUJO      CONECTADO     132135   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     32370    
+unix  3      [ ]         FLUJO      CONECTADO     29588    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146987   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     136630   
+unix  3      [ ]         FLUJO      CONECTADO     129778   
+unix  3      [ ]         FLUJO      CONECTADO     133823   
+unix  3      [ ]         FLUJO      CONECTADO     131809   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     30060    
+unix  3      [ ]         FLUJO      CONECTADO     21133    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138109   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133179   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134440   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131647   
+unix  3      [ ]         FLUJO      CONECTADO     132595   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131854   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     146351   
+unix  2      [ ]         DGRAM      CONECTADO     130311   
+unix  3      [ ]         FLUJO      CONECTADO     135921   
+unix  3      [ ]         FLUJO      CONECTADO     137343   
+unix  2      [ ]         DGRAM      CONECTADO     30510    
+unix  3      [ ]         FLUJO      CONECTADO     28901    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138820   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132144   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132114   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131786   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131625   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     91765    
+unix  3      [ ]         FLUJO      CONECTADO     135434   
+unix  3      [ ]         FLUJO      CONECTADO     134640   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134512   
+unix  3      [ ]         FLUJO      CONECTADO     131886   
+unix  3      [ ]         FLUJO      CONECTADO     131871   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131816   
+unix  3      [ ]         FLUJO      CONECTADO     31016    /run/avahi-daemon/socket
+unix  3      [ ]         FLUJO      CONECTADO     132927   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134562   
+unix  3      [ ]         FLUJO      CONECTADO     30898    
+unix  3      [ ]         FLUJO      CONECTADO     29595    
+unix  2      [ ]         DGRAM                    30875    
+unix  3      [ ]         FLUJO      CONECTADO     133315   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     129850   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131523   
+unix  3      [ ]         FLUJO      CONECTADO     150218   
+unix  3      [ ]         FLUJO      CONECTADO     133066   
+unix  3      [ ]         FLUJO      CONECTADO     132040   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130713   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40815    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     37835    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136910   
+unix  3      [ ]         FLUJO      CONECTADO     37499    
+unix  3      [ ]         FLUJO      CONECTADO     138531   
+unix  3      [ ]         FLUJO      CONECTADO     131488   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     32266    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     148777   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     134510   
+unix  3      [ ]         FLUJO      CONECTADO     133612   
+unix  3      [ ]         FLUJO      CONECTADO     134172   
+unix  3      [ ]         FLUJO      CONECTADO     133822   
+unix  3      [ ]         FLUJO      CONECTADO     131804   
+unix  3      [ ]         FLUJO      CONECTADO     30140    
+unix  2      [ ]         DGRAM      CONECTADO     19139    
+unix  3      [ ]         FLUJO      CONECTADO     131938   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     127890   
+unix  3      [ ]         FLUJO      CONECTADO     133314   
+unix  3      [ ]         FLUJO      CONECTADO     131660   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     29204    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129721   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131436   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     140123   
+unix  3      [ ]         FLUJO      CONECTADO     132491   
+unix  3      [ ]         FLUJO      CONECTADO     132411   
+unix  3      [ ]         FLUJO      CONECTADO     126932   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     90774    
+unix  3      [ ]         FLUJO      CONECTADO     137747   
+unix  3      [ ]         FLUJO      CONECTADO     132111   
+unix  3      [ ]         FLUJO      CONECTADO     131778   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131638   
+unix  3      [ ]         FLUJO      CONECTADO     131360   
+unix  2      [ ]         FLUJO      CONECTADO     40726    
+unix  3      [ ]         SEQPACKET  CONECTADO     136305   
+unix  3      [ ]         FLUJO      CONECTADO     130321   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     32877    
+unix  2      [ ]         DGRAM      CONECTADO     31018    
+unix  2      [ ]         DGRAM      CONECTADO     29694    
+unix  3      [ ]         FLUJO      CONECTADO     131939   
+unix  3      [ ]         FLUJO      CONECTADO     131925   @/dbus-vfs-daemon/socket-s7Kw5PXP
+unix  3      [ ]         FLUJO      CONECTADO     131879   
+unix  3      [ ]         FLUJO      CONECTADO     131866   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131810   
+unix  3      [ ]         FLUJO      CONECTADO     134216   
+unix  3      [ ]         FLUJO      CONECTADO     126828   
+unix  3      [ ]         FLUJO      CONECTADO     127902   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM                    32263    
+unix  3      [ ]         FLUJO      CONECTADO     28758    
+unix  3      [ ]         FLUJO      CONECTADO     129690   
+unix  3      [ ]         FLUJO      CONECTADO     132239   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130439   
+unix  3      [ ]         FLUJO      CONECTADO     27912    
+unix  3      [ ]         FLUJO      CONECTADO     133084   
+unix  3      [ ]         FLUJO      CONECTADO     130696   
+unix  3      [ ]         FLUJO      CONECTADO     97969    /run/user/1006/bus
+unix  2      [ ]         FLUJO      CONECTADO     147932   
+unix  3      [ ]         FLUJO      CONECTADO     131645   
+unix  3      [ ]         FLUJO      CONECTADO     136300   
+unix  3      [ ]         FLUJO      CONECTADO     133558   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136297   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131907   
+unix  3      [ ]         FLUJO      CONECTADO     131814   
+unix  3      [ ]         FLUJO      CONECTADO     29130    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     149187   
+unix  3      [ ]         FLUJO      CONECTADO     129779   
+unix  3      [ ]         FLUJO      CONECTADO     136629   
+unix  3      [ ]         FLUJO      CONECTADO     132346   
+unix  3      [ ]         FLUJO      CONECTADO     131432   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     150158   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130330   
+unix  3      [ ]         SEQPACKET  CONECTADO     137338   
+unix  3      [ ]         FLUJO      CONECTADO     132502   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     28899    
+unix  3      [ ]         FLUJO      CONECTADO     136301   
+unix  3      [ ]         FLUJO      CONECTADO     30908    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29590    
+unix  3      [ ]         FLUJO      CONECTADO     29292    
+unix  3      [ ]         FLUJO      CONECTADO     131803   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131654   
+unix  3      [ ]         FLUJO      CONECTADO     132287   
+unix  3      [ ]         FLUJO      CONECTADO     91788    
+unix  3      [ ]         FLUJO      CONECTADO     135425   
+unix  3      [ ]         FLUJO      CONECTADO     131954   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131848   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133540   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131800   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     40245    
+unix  3      [ ]         FLUJO      CONECTADO     26492    
+unix  3      [ ]         FLUJO      CONECTADO     37500    
+unix  3      [ ]         FLUJO      CONECTADO     134449   /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    35423    
+unix  3      [ ]         FLUJO      CONECTADO     32371    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135918   
+unix  3      [ ]         FLUJO      CONECTADO     138368   
+unix  3      [ ]         FLUJO      CONECTADO     133079   
+unix  3      [ ]         FLUJO      CONECTADO     136321   
+unix  3      [ ]         FLUJO      CONECTADO     130716   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     38891    
+unix  3      [ ]         DGRAM      CONECTADO     27744    
+unix  3      [ ]         DGRAM      CONECTADO     27742    
+unix  3      [ ]         FLUJO      CONECTADO     132307   
+unix  3      [ ]         FLUJO      CONECTADO     36273    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148682   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     41640    /run/dbus/system_bus_socket
+unix  2      [ ]         FLUJO                    154230   
+unix  3      [ ]         FLUJO      CONECTADO     149189   
+unix  3      [ ]         FLUJO      CONECTADO     131829   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134398   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     38458    
+unix  3      [ ]         FLUJO      CONECTADO     137328   
+unix  3      [ ]         FLUJO      CONECTADO     130872   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     91785    
+unix  3      [ ]         FLUJO      CONECTADO     24484    
+unix  3      [ ]         FLUJO      CONECTADO     133088   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     132389   
+unix  3      [ ]         FLUJO      CONECTADO     129601   
+unix  3      [ ]         FLUJO      CONECTADO     137775   
+unix  3      [ ]         FLUJO      CONECTADO     129024   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135920   
+unix  3      [ ]         SEQPACKET  CONECTADO     137347   
+unix  3      [ ]         FLUJO      CONECTADO     129714   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132208   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129666   
+unix  3      [ ]         FLUJO      CONECTADO     38871    
+unix  3      [ ]         FLUJO      CONECTADO     133663   
+unix  3      [ ]         FLUJO      CONECTADO     133740   
+unix  3      [ ]         FLUJO      CONECTADO     129783   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     126930   
+unix  3      [ ]         FLUJO      CONECTADO     112494   
+unix  3      [ ]         FLUJO      CONECTADO     90775    
+unix  3      [ ]         FLUJO      CONECTADO     39134    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132482   
+unix  3      [ ]         FLUJO      CONECTADO     129677   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     36964    
+unix  3      [ ]         FLUJO      CONECTADO     138693   
+unix  3      [ ]         SEQPACKET  CONECTADO     137296   
+unix  3      [ ]         FLUJO      CONECTADO     132042   
+unix  3      [ ]         FLUJO      CONECTADO     132018   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133569   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134416   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133557   
+unix  3      [ ]         FLUJO      CONECTADO     131811   
+unix  3      [ ]         FLUJO      CONECTADO     134392   
+unix  3      [ ]         FLUJO      CONECTADO     134273   
+unix  3      [ ]         FLUJO      CONECTADO     131766   
+unix  3      [ ]         FLUJO      CONECTADO     129854   
+unix  3      [ ]         FLUJO      CONECTADO     38194    
+unix  3      [ ]         FLUJO      CONECTADO     132288   
+unix  2      [ ]         DGRAM      CONECTADO     131236   
+unix  3      [ ]         FLUJO      CONECTADO     136295   
+unix  3      [ ]         FLUJO      CONECTADO     136232   
+unix  3      [ ]         FLUJO      CONECTADO     134563   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     31398    
+unix  3      [ ]         FLUJO      CONECTADO     138366   
+unix  3      [ ]         FLUJO      CONECTADO     126933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135893   
+unix  3      [ ]         FLUJO      CONECTADO     32837    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     28375    
+unix  2      [ ]         DGRAM      CONECTADO     28691    
+unix  3      [ ]         DGRAM      CONECTADO     17719    
+unix  3      [ ]         FLUJO      CONECTADO     99825    
+unix  3      [ ]         FLUJO      CONECTADO     33147    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136504   
+unix  3      [ ]         FLUJO      CONECTADO     136373   
+unix  3      [ ]         FLUJO      CONECTADO     130704   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     135436   
+unix  3      [ ]         FLUJO      CONECTADO     134462   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133710   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131822   
+unix  3      [ ]         FLUJO      CONECTADO     40095    
+unix  3      [ ]         FLUJO      CONECTADO     133279   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133167   
+unix  3      [ ]         FLUJO      CONECTADO     131721   
+unix  3      [ ]         FLUJO      CONECTADO     131634   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33138    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132599   
+unix  3      [ ]         FLUJO      CONECTADO     130709   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137344   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130434   
+unix  3      [ ]         FLUJO      CONECTADO     24265    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131624   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129725   
+unix  3      [ ]         FLUJO      CONECTADO     129716   
+unix  3      [ ]         FLUJO      CONECTADO     135923   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     138602   
+unix  3      [ ]         FLUJO      CONECTADO     131583   
+unix  3      [ ]         FLUJO      CONECTADO     32763    
+unix  3      [ ]         FLUJO      CONECTADO     132508   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131828   
+unix  3      [ ]         FLUJO      CONECTADO     132971   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134836   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131932   
+unix  3      [ ]         FLUJO      CONECTADO     131838   
+unix  3      [ ]         FLUJO      CONECTADO     133553   
+unix  3      [ ]         FLUJO      CONECTADO     134278   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133286   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131795   
+unix  3      [ ]         FLUJO      CONECTADO     131793   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132981   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134608   
+unix  3      [ ]         FLUJO      CONECTADO     30907    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     29435    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     148389   
+unix  3      [ ]         FLUJO      CONECTADO     148678   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132179   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     138821   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140122   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     133719   
+unix  3      [ ]         FLUJO      CONECTADO     132308   
+unix  3      [ ]         FLUJO      CONECTADO     130876   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136893   
+unix  3      [ ]         FLUJO      CONECTADO     136588   
+unix  3      [ ]         FLUJO      CONECTADO     132008   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     100502   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137479   
+unix  3      [ ]         FLUJO      CONECTADO     33150    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     147935   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130937   
+unix  3      [ ]         FLUJO      CONECTADO     132301   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     135437   
+unix  3      [ ]         FLUJO      CONECTADO     132495   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131844   
+unix  3      [ ]         FLUJO      CONECTADO     134555   
+unix  3      [ ]         FLUJO      CONECTADO     147938   
+unix  3      [ ]         FLUJO      CONECTADO     131662   
+unix  3      [ ]         FLUJO      CONECTADO     131632   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132226   
+unix  3      [ ]         FLUJO      CONECTADO     132131   
+unix  3      [ ]         FLUJO      CONECTADO     132112   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     39002    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     129570   
+unix  3      [ ]         FLUJO      CONECTADO     138365   
+unix  3      [ ]         FLUJO      CONECTADO     133665   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     126952   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134825   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134466   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     129594   
+unix  3      [ ]         FLUJO      CONECTADO     29591    
+unix  3      [ ]         FLUJO      CONECTADO     149188   
+unix  3      [ ]         FLUJO      CONECTADO     135424   
+unix  3      [ ]         FLUJO      CONECTADO     136298   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133819   
+unix  3      [ ]         FLUJO      CONECTADO     132496   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131817   
+unix  3      [ ]         FLUJO      CONECTADO     131806   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133535   
+unix  3      [ ]         FLUJO      CONECTADO     131796   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130029   
+unix  3      [ ]         FLUJO      CONECTADO     93297    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     32764    
+unix  3      [ ]         FLUJO      CONECTADO     136333   
+unix  3      [ ]         FLUJO      CONECTADO     132492   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     97968    
+unix  3      [ ]         FLUJO      CONECTADO     130348   
+unix  3      [ ]         FLUJO      CONECTADO     135916   
+unix  3      [ ]         FLUJO      CONECTADO     133717   
+unix  2      [ ]         DGRAM      CONECTADO     28974    
+unix  3      [ ]         FLUJO      CONECTADO     27534    
+unix  3      [ ]         FLUJO      CONECTADO     133708   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133613   
+unix  3      [ ]         FLUJO      CONECTADO     133181   
+unix  3      [ ]         FLUJO      CONECTADO     42379    
+unix  3      [ ]         FLUJO      CONECTADO     30904    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134450   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     34806    /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONECTADO     18894    
+unix  3      [ ]         FLUJO      CONECTADO     131823   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131785   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133347   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129717   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     129689   
+unix  3      [ ]         FLUJO      CONECTADO     138530   
+unix  3      [ ]         FLUJO      CONECTADO     132110   
+unix  3      [ ]         FLUJO      CONECTADO     129667   
+unix  3      [ ]         FLUJO      CONECTADO     130715   
+unix  3      [ ]         FLUJO      CONECTADO     132497   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130423   
+unix  2      [ ]         DGRAM      CONECTADO     38880    
+unix  3      [ ]         FLUJO      CONECTADO     27679    
+unix  3      [ ]         FLUJO      CONECTADO     134846   
+unix  3      [ ]         FLUJO      CONECTADO     134648   
+unix  3      [ ]         FLUJO      CONECTADO     30889    
+unix  3      [ ]         FLUJO      CONECTADO     30903    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130453   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91774    
+unix  3      [ ]         FLUJO      CONECTADO     29057    /run/systemd/journal/stdout
+unix  2      [ ]         FLUJO      CONECTADO     154781   
+unix  3      [ ]         SEQPACKET  CONECTADO     137301   
+unix  3      [ ]         FLUJO      CONECTADO     131937   
+unix  3      [ ]         FLUJO      CONECTADO     133561   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131818   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134270   
+unix  3      [ ]         FLUJO      CONECTADO     131765   
+unix  2      [ ]         DGRAM      CONECTADO     26495    
+unix  3      [ ]         DGRAM      CONECTADO     20747    
+unix  3      [ ]         FLUJO      CONECTADO     140643   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     136503   
+unix  3      [ ]         FLUJO      CONECTADO     131933   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     97955    
+unix  2      [ ]         DGRAM      CONECTADO     27739    
+unix  3      [ ]         FLUJO      CONECTADO     133085   
+unix  3      [ ]         FLUJO      CONECTADO     34772    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135892   
+unix  3      [ ]         FLUJO      CONECTADO     135560   
+unix  3      [ ]         FLUJO      CONECTADO     130830   
+unix  3      [ ]         FLUJO      CONECTADO     32881    
+unix  3      [ ]         FLUJO      CONECTADO     133281   
+unix  3      [ ]         FLUJO      CONECTADO     131722   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     131659   
+unix  3      [ ]         FLUJO      CONECTADO     95427    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30891    
+unix  3      [ ]         FLUJO      CONECTADO     131771   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     135439   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131893   
+unix  3      [ ]         FLUJO      CONECTADO     131870   
+unix  3      [ ]         FLUJO      CONECTADO     132500   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134277   
+unix  3      [ ]         FLUJO      CONECTADO     29051    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     138692   
+unix  3      [ ]         FLUJO      CONECTADO     134384   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     38459    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136312   
+unix  3      [ ]         FLUJO      CONECTADO     134442   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131646   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129713   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130398   
+unix  3      [ ]         FLUJO      CONECTADO     150217   
+unix  3      [ ]         FLUJO      CONECTADO     130267   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     34809    
+unix  3      [ ]         FLUJO      CONECTADO     29808    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137774   
+unix  3      [ ]         FLUJO      CONECTADO     138601   
+unix  3      [ ]         FLUJO      CONECTADO     132509   
+unix  2      [ ]         DGRAM                    129680   
+unix  2      [ ]         DGRAM      CONECTADO     108377   
+unix  3      [ ]         FLUJO      CONECTADO     132972   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     137330   
+unix  3      [ ]         FLUJO      CONECTADO     134511   
+unix  3      [ ]         FLUJO      CONECTADO     131847   
+unix  3      [ ]         FLUJO      CONECTADO     133554   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     88841    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131059   
+unix  3      [ ]         FLUJO      CONECTADO     129841   
+unix  3      [ ]         FLUJO      CONECTADO     131525   
+unix  3      [ ]         SEQPACKET  CONECTADO     136304   
+unix  3      [ ]         FLUJO      CONECTADO     132510   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133473   
+unix  3      [ ]         FLUJO      CONECTADO     131631   
+unix  3      [ ]         FLUJO      CONECTADO     32885    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     30897    
+unix  3      [ ]         FLUJO      CONECTADO     29203    
+unix  3      [ ]         FLUJO      CONECTADO     130457   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     131553   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         DGRAM      CONECTADO     27743    
+unix  3      [ ]         FLUJO      CONECTADO     27844    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     136509   
+unix  2      [ ]         DGRAM      CONECTADO     126929   
+unix  3      [ ]         FLUJO      CONECTADO     37655    
+unix  3      [ ]         FLUJO      CONECTADO     129676   
+unix  3      [ ]         FLUJO      CONECTADO     148679   
+unix  3      [ ]         FLUJO      CONECTADO     137327   
+unix  3      [ ]         FLUJO      CONECTADO     92487    
+unix  3      [ ]         FLUJO      CONECTADO     38638    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     132983   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131903   
+unix  3      [ ]         FLUJO      CONECTADO     134417   
+unix  3      [ ]         FLUJO      CONECTADO     134175   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131655   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131513   
+unix  3      [ ]         FLUJO      CONECTADO     135586   
+unix  3      [ ]         SEQPACKET  CONECTADO     137346   
+unix  3      [ ]         FLUJO      CONECTADO     30292    
+unix  2      [ ]         DGRAM      CONECTADO     130305   
+unix  3      [ ]         FLUJO      CONECTADO     136171   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     132521   
+unix  3      [ ]         FLUJO      CONECTADO     131552   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130350   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     108383   
+unix  3      [ ]         FLUJO      CONECTADO     90776    
+unix  3      [ ]         FLUJO      CONECTADO     136313   
+unix  3      [ ]         FLUJO      CONECTADO     133178   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     132517   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131924   
+unix  3      [ ]         FLUJO      CONECTADO     133562   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131840   
+unix  3      [ ]         FLUJO      CONECTADO     134397   
+unix  3      [ ]         FLUJO      CONECTADO     133130   /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     15331    
+unix  3      [ ]         FLUJO      CONECTADO     134641   
+unix  3      [ ]         FLUJO      CONECTADO     134559   
+unix  3      [ ]         FLUJO      CONECTADO     132501   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31017    
+unix  2      [ ]         FLUJO      CONECTADO     155982   
+unix  3      [ ]         FLUJO      CONECTADO     133080   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     132597   
+unix  3      [ ]         FLUJO      CONECTADO     130707   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130706   
+unix  3      [ ]         FLUJO      CONECTADO     28824    
+unix  3      [ ]         FLUJO      CONECTADO     135559   
+unix  3      [ ]         FLUJO      CONECTADO     126837   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     27684    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131516   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     140126   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130440   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130353   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90777    /run/user/1004/bus
+unix  3      [ ]         FLUJO      CONECTADO     148388   
+unix  3      [ ]         FLUJO      CONECTADO     132019   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133620   
+unix  3      [ ]         FLUJO      CONECTADO     131648   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     133821   
+unix  3      [ ]         FLUJO      CONECTADO     138649   
+unix  3      [ ]         FLUJO      CONECTADO     131904   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133716   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     26496    
+unix  3      [ ]         FLUJO      CONECTADO     148677   
+unix  3      [ ]         FLUJO      CONECTADO     131061   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     38655    
+unix  3      [ ]         FLUJO      CONECTADO     140642   
+unix  3      [ ]         FLUJO      CONECTADO     129027   
+unix  3      [ ]         FLUJO      CONECTADO     132519   
+unix  3      [ ]         FLUJO      CONECTADO     131767   @/tmp/dbus-twe2lxcVjH
+unix  2      [ ]         DGRAM      CONECTADO     97966    
+unix  3      [ ]         FLUJO      CONECTADO     35996    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135917   
+unix  3      [ ]         FLUJO      CONECTADO     134606   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131622   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131928   @/dbus-vfs-daemon/socket-OgfUdeKN
+unix  3      [ ]         FLUJO      CONECTADO     134517   
+unix  3      [ ]         FLUJO      CONECTADO     133169   
+unix  3      [ ]         FLUJO      CONECTADO     131724   
+unix  3      [ ]         FLUJO      CONECTADO     31399    /run/rpcbind.sock
+unix  3      [ ]         FLUJO      CONECTADO     32861    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30906    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     135435   
+unix  3      [ ]         FLUJO      CONECTADO     135427   
+unix  3      [ ]         FLUJO      CONECTADO     133715   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     134461   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131890   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131839   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133550   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     92770    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38462    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138645   
+unix  3      [ ]         FLUJO      CONECTADO     137745   
+unix  3      [ ]         FLUJO      CONECTADO     132223   
+unix  3      [ ]         FLUJO      CONECTADO     132143   
+unix  3      [ ]         FLUJO      CONECTADO     32733    
+unix  3      [ ]         FLUJO      CONECTADO     130443   
+unix  3      [ ]         DGRAM      CONECTADO     129569   
+unix  3      [ ]         FLUJO      CONECTADO     29819    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     137382   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     136320   
+unix  3      [ ]         FLUJO      CONECTADO     130708   
+unix  3      [ ]         FLUJO      CONECTADO     133127   
+unix  3      [ ]         FLUJO      CONECTADO     131653   
+unix  3      [ ]         FLUJO      CONECTADO     131586   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         SEQPACKET  CONECTADO     137299   
+unix  3      [ ]         FLUJO      CONECTADO     133539   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130026   
+unix  3      [ ]         FLUJO      CONECTADO     37437    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     38197    
+unix  3      [ ]         FLUJO      CONECTADO     134463   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     134271   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     30902    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30901    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     138097   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134553   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133621   
+unix  3      [ ]         FLUJO      CONECTADO     132448   
+unix  3      [ ]         FLUJO      CONECTADO     130425   /run/user/1005/bus
+unix  3      [ ]         DGRAM      CONECTADO     108390   
+unix  3      [ ]         FLUJO      CONECTADO     97967    
+unix  3      [ ]         FLUJO      CONECTADO     137480   
+unix  3      [ ]         FLUJO      CONECTADO     129011   
+unix  3      [ ]         FLUJO      CONECTADO     135919   
+unix  2      [ ]         DGRAM      CONECTADO     30581    
+unix  3      [ ]         FLUJO      CONECTADO     150706   
+unix  3      [ ]         FLUJO      CONECTADO     130424   
+unix  3      [ ]         FLUJO      CONECTADO     134935   
+unix  3      [ ]         FLUJO      CONECTADO     30899    
+unix  3      [ ]         FLUJO      CONECTADO     30890    
+unix  3      [ ]         FLUJO      CONECTADO     29293    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131524   
+unix  3      [ ]         FLUJO      CONECTADO     129852   
+unix  3      [ ]         FLUJO      CONECTADO     131639   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     40084    
+unix  3      [ ]         SEQPACKET  CONECTADO     137337   
+unix  3      [ ]         FLUJO      CONECTADO     132041   
+unix  3      [ ]         FLUJO      CONECTADO     131940   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     131891   
+unix  3      [ ]         FLUJO      CONECTADO     131875   
+unix  3      [ ]         FLUJO      CONECTADO     131815   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134274   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131775   
+unix  3      [ ]         FLUJO      CONECTADO     132149   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     137746   
+unix  2      [ ]         FLUJO      CONECTADO     138479   
+unix  3      [ ]         FLUJO      CONECTADO     126934   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     32265    
+unix  3      [ ]         FLUJO      CONECTADO     134937   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     133664   
+unix  3      [ ]         DGRAM      CONECTADO     17718    
+unix  3      [ ]         FLUJO      CONECTADO     140128   
+unix  3      [ ]         FLUJO      CONECTADO     132222   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     38886    
+unix  3      [ ]         FLUJO      CONECTADO     27657    
+unix  3      [ ]         FLUJO      CONECTADO     130395   
+unix  3      [ ]         FLUJO      CONECTADO     27682    
+unix  3      [ ]         FLUJO      CONECTADO     134455   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     130718   @/tmp/.ICE-unix/10943
+unix  3      [ ]         FLUJO      CONECTADO     130444   
+unix  3      [ ]         FLUJO      CONECTADO     32626    
+unix  3      [ ]         FLUJO      CONECTADO     29046    
+unix  3      [ ]         FLUJO      CONECTADO     27843    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140644   
+unix  3      [ ]         FLUJO      CONECTADO     136894   
+unix  3      [ ]         FLUJO      CONECTADO     136510   
+unix  3      [ ]         FLUJO      CONECTADO     131901   
+unix  3      [ ]         FLUJO      CONECTADO     135422   
+unix  3      [ ]         FLUJO      CONECTADO     134419   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132300   
+unix  3      [ ]         FLUJO      CONECTADO     134513   
+unix  3      [ ]         FLUJO      CONECTADO     133128   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131663   /run/user/1005/bus
+unix  2      [ ]         DGRAM      CONECTADO     31188    
+unix  3      [ ]         FLUJO      CONECTADO     132218   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     36790    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131723   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     125902   
+unix  3      [ ]         FLUJO      CONECTADO     138646   
+unix  3      [ ]         FLUJO      CONECTADO     131534   
+unix  3      [ ]         FLUJO      CONECTADO     126918   
+unix  3      [ ]         FLUJO      CONECTADO     34771    /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONECTADO     108391   
+unix  3      [ ]         FLUJO      CONECTADO     37463    
+unix  3      [ ]         FLUJO      CONECTADO     147941   
+unix  3      [ ]         FLUJO      CONECTADO     135432   
+unix  2      [ ]         DGRAM      CONECTADO     133820   
+unix  3      [ ]         FLUJO      CONECTADO     131841   
+unix  3      [ ]         FLUJO      CONECTADO     133538   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131808   
+unix  3      [ ]         FLUJO      CONECTADO     133406   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131777   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     148776   
+unix  3      [ ]         FLUJO      CONECTADO     130027   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     131656   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     129559   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     127892   
+unix  3      [ ]         FLUJO      CONECTADO     38656    
+unix  3      [ ]         FLUJO      CONECTADO     136294   
+unix  3      [ ]         FLUJO      CONECTADO     32882    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31111    
+unix  3      [ ]         FLUJO      CONECTADO     136181   
+unix  3      [ ]         FLUJO      CONECTADO     132973   
+unix  2      [ ]         DGRAM                    133729   
+unix  3      [ ]         FLUJO      CONECTADO     130717   
+unix  3      [ ]         FLUJO      CONECTADO     24485    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     30900    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     127893   /run/user/1001/bus
+unix  3      [ ]         FLUJO      CONECTADO     24270    /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     140129   
+unix  2      [ ]         DGRAM      CONECTADO     35394    
+unix  3      [ ]         FLUJO      CONECTADO     144166   
+unix  3      [ ]         FLUJO      CONECTADO     137481   
+unix  3      [ ]         FLUJO      CONECTADO     131058   
+unix  3      [ ]         FLUJO      CONECTADO     35647    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131915   
+unix  3      [ ]         FLUJO      CONECTADO     131953   
+unix  3      [ ]         FLUJO      CONECTADO     134460   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     31284    
+unix  3      [ ]         FLUJO      CONECTADO     134518   
+unix  3      [ ]         FLUJO      CONECTADO     134451   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     133278   
+unix  3      [ ]         FLUJO      CONECTADO     130938   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131640   
+unix  3      [ ]         FLUJO      CONECTADO     132503   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     130697   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131623   /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONECTADO     27741    
+unix  3      [ ]         FLUJO      CONECTADO     132227   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     108368   
+unix  3      [ ]         FLUJO      CONECTADO     126649   
+unix  3      [ ]         FLUJO      CONECTADO     126618   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129847   
+unix  3      [ ]         DGRAM      CONECTADO     91786    
+unix  3      [ ]         SEQPACKET  CONECTADO     137295   
+unix  3      [ ]         FLUJO      CONECTADO     132012   
+unix  3      [ ]         FLUJO      CONECTADO     133611   
+unix  3      [ ]         FLUJO      CONECTADO     131853   
+unix  3      [ ]         FLUJO      CONECTADO     134279   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134268   
+unix  3      [ ]         FLUJO      CONECTADO     134217   
+unix  3      [ ]         FLUJO      CONECTADO     30136    
+unix  3      [ ]         DGRAM      CONECTADO     20746    
+unix  3      [ ]         FLUJO      CONECTADO     136310   
+unix  3      [ ]         FLUJO      CONECTADO     131955   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     34780    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     30909    /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131480   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131479   
+unix  3      [ ]         FLUJO      CONECTADO     137482   
+unix  3      [ ]         FLUJO      CONECTADO     136589   
+unix  3      [ ]         FLUJO      CONECTADO     132315   
+unix  3      [ ]         FLUJO      CONECTADO     111408   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     129718   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38938    
+unix  3      [ ]         FLUJO      CONECTADO     136169   
+unix  3      [ ]         FLUJO      CONECTADO     133082   
+unix  3      [ ]         FLUJO      CONECTADO     133720   
+unix  3      [ ]         FLUJO      CONECTADO     131650   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     28968    
+unix  3      [ ]         FLUJO      CONECTADO     27601    
+unix  3      [ ]         FLUJO      CONECTADO     130909   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131725   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     94697    
+unix  3      [ ]         FLUJO      CONECTADO     131905   
+unix  3      [ ]         FLUJO      CONECTADO     33202    
+unix  3      [ ]         FLUJO      CONECTADO     138694   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     135438   
+unix  3      [ ]         FLUJO      CONECTADO     131887   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131790   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     131060   
+unix  3      [ ]         FLUJO      CONECTADO     132314   
+unix  3      [ ]         FLUJO      CONECTADO     129745   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     126931   
+unix  3      [ ]         FLUJO      CONECTADO     126876   
+unix  3      [ ]         FLUJO      CONECTADO     114921   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     31805    
+unix  3      [ ]         FLUJO      CONECTADO     129715   
+unix  3      [ ]         FLUJO      CONECTADO     108393   
+unix  3      [ ]         DGRAM      CONECTADO     36965    
+unix  3      [ ]         FLUJO      CONECTADO     130456   
+unix  3      [ ]         FLUJO      CONECTADO     28208    
+unix  3      [ ]         FLUJO      CONECTADO     133067   
+unix  3      [ ]         FLUJO      CONECTADO     129722   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     33803    
+unix  3      [ ]         FLUJO      CONECTADO     132277   
+unix  3      [ ]         FLUJO      CONECTADO     131476   
+unix  3      [ ]         FLUJO      CONECTADO     136303   
+unix  3      [ ]         FLUJO      CONECTADO     37945    
+unix  3      [ ]         FLUJO      CONECTADO     33129    
+unix  3      [ ]         FLUJO      CONECTADO     135431   
+unix  3      [ ]         FLUJO      CONECTADO     133779   
+unix  3      [ ]         FLUJO      CONECTADO     131894   
+unix  3      [ ]         FLUJO      CONECTADO     131892   
+unix  3      [ ]         FLUJO      CONECTADO     133543   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133542   
+unix  3      [ ]         FLUJO      CONECTADO     134276   
+unix  3      [ ]         FLUJO      CONECTADO     131801   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     130710   @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONECTADO     91780    
+unix  3      [ ]         FLUJO      CONECTADO     140640   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     136374   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134456   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131550   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     104365   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     38894    
+unix  3      [ ]         FLUJO      CONECTADO     137744   
+unix  3      [ ]         FLUJO      CONECTADO     135585   
+unix  3      [ ]         FLUJO      CONECTADO     132974   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     133711   
+unix  3      [ ]         FLUJO      CONECTADO     130702   
+unix  2      [ ]         DGRAM      CONECTADO     27476    
+unix  3      [ ]         FLUJO      CONECTADO     150707   
+unix  3      [ ]         FLUJO      CONECTADO     132984   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     133707   
+unix  3      [ ]         FLUJO      CONECTADO     130030   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     131641   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     29434    
+unix  3      [ ]         FLUJO      CONECTADO     134174   
+unix  3      [ ]         FLUJO      CONECTADO     131064   
+unix  3      [ ]         FLUJO      CONECTADO     19074    
+unix  3      [ ]         FLUJO      CONECTADO     131515   /run/user/1005/pulse/native
+unix  3      [ ]         FLUJO      CONECTADO     129670   
+unix  3      [ ]         FLUJO      CONECTADO     31519    
+unix  2      [ ]         DGRAM      CONECTADO     131536   
+unix  3      [ ]         FLUJO      CONECTADO     132134   
+unix  3      [ ]         FLUJO      CONECTADO     126935   /run/systemd/journal/stdout
+unix  3      [ ]         FLUJO      CONECTADO     90770    
+unix  3      [ ]         FLUJO      CONECTADO     130712   
+unix  3      [ ]         FLUJO      CONECTADO     34810    
+unix  3      [ ]         FLUJO      CONECTADO     129572   
+unix  3      [ ]         FLUJO      CONECTADO     136302   
+unix  2      [ ]         DGRAM                    134987   
+unix  3      [ ]         FLUJO      CONECTADO     33206    
+unix  3      [ ]         FLUJO      CONECTADO     132289   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     149186   
+unix  3      [ ]         FLUJO      CONECTADO     129848   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     130699   @/tmp/.X11-unix/X0
+unix  3      [ ]         FLUJO      CONECTADO     150166   @/tmp/dbus-twe2lxcVjH
+unix  3      [ ]         FLUJO      CONECTADO     134822   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     132498   /run/dbus/system_bus_socket
+unix  3      [ ]         FLUJO      CONECTADO     134509   
+unix  3      [ ]         FLUJO      CONECTADO     134391   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     134386   /run/user/1005/bus
+unix  3      [ ]         FLUJO      CONECTADO     131792   
+unix  2      [ ]         DGRAM      CONECTADO     42531    
+unix  3      [ ]         FLUJO      CONECTADO     36444    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONECTADO     19014    
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:5037         kubernetes:62412       ESTABLISHED
+  TCP    127.0.0.1:61863        kubernetes:61864       ESTABLISHED
+  TCP    127.0.0.1:61864        kubernetes:61863       ESTABLISHED
+  TCP    127.0.0.1:61865        kubernetes:61866       ESTABLISHED
+  TCP    127.0.0.1:61866        kubernetes:61865       ESTABLISHED
+  TCP    127.0.0.1:62407        kubernetes:62408       ESTABLISHED
+  TCP    127.0.0.1:62408        kubernetes:62407       ESTABLISHED
+  TCP    127.0.0.1:62409        kubernetes:62410       ESTABLISHED
+  TCP    127.0.0.1:62410        kubernetes:62409       ESTABLISHED
+  TCP    127.0.0.1:62412        kubernetes:5037        ESTABLISHED
+  TCP    127.0.0.1:62935        kubernetes:62501       TIME_WAIT
+  TCP    127.0.0.1:62967        kubernetes:62501       TIME_WAIT
+  TCP    127.0.0.1:63568        kubernetes:63569       ESTABLISHED
+  TCP    127.0.0.1:63569        kubernetes:63568       ESTABLISHED
+  TCP    192.168.1.41:61178     20.54.36.229:https     ESTABLISHED
+  TCP    192.168.1.41:61938     55:https               ESTABLISHED
+  TCP    192.168.1.41:62931     server-18-154-41-110:https  TIME_WAIT
+  TCP    192.168.1.41:62938     20.223.36.55:https     TIME_WAIT
+  TCP    192.168.1.41:62944     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62945     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62947     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62950     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62952     52.109.88.188:https    TIME_WAIT
+  TCP    192.168.1.41:62954     52.111.231.0:https     CLOSE_WAIT
+  TCP    192.168.1.41:63548     82:http                TIME_WAIT
+  TCP    192.168.1.41:63549     82:http                ESTABLISHED
+  TCP    192.168.1.41:63556     192.168.1.1:43210      TIME_WAIT
+  TCP    192.168.1.41:63558     148.72.165.70:https    CLOSE_WAIT
+  TCP    192.168.1.41:63559     148.72.165.70:https    CLOSE_WAIT
+  TCP    192.168.1.41:63561     181:https              ESTABLISHED
+  TCP    192.168.1.41:63562     ec2-35-172-84-132:https  CLOSE_WAIT
+  TCP    192.168.1.41:63563     181:https              ESTABLISHED
+  TCP    192.168.1.41:63565     148.72.164.12:40443    CLOSE_WAIT
+  TCP    192.168.1.41:63566     148.72.164.12:40443    ESTABLISHED
+  TCP    192.168.1.41:63567     192.168.1.1:43210      TIME_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62179  [2603:1026:c09:83f::2]:https  ESTABLISHED
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62940  g2a02-26f0-0980-0009-0000-0000-6010-56e1:https  CLOSE_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62956  g2a02-26f0-9f00-000c-0000-0000-17c8-4298:https  CLOSE_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63545  [2600:1901:0:38d7::]:http  TIME_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63546  [2600:1901:0:38d7::]:http  TIME_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63555  wa-in-xbc:5228         ESTABLISHED
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63560  [2606:4700:4400::ac40:9a56]:https  ESTABLISHED
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:5037         kubernetes:62412       ESTABLISHED
+  TCP    127.0.0.1:61863        kubernetes:61864       ESTABLISHED
+  TCP    127.0.0.1:61864        kubernetes:61863       ESTABLISHED
+  TCP    127.0.0.1:61865        kubernetes:61866       ESTABLISHED
+  TCP    127.0.0.1:61866        kubernetes:61865       ESTABLISHED
+  TCP    127.0.0.1:62407        kubernetes:62408       ESTABLISHED
+  TCP    127.0.0.1:62408        kubernetes:62407       ESTABLISHED
+  TCP    127.0.0.1:62409        kubernetes:62410       ESTABLISHED
+  TCP    127.0.0.1:62410        kubernetes:62409       ESTABLISHED
+  TCP    127.0.0.1:62412        kubernetes:5037        ESTABLISHED
+  TCP    127.0.0.1:62967        kubernetes:62501       TIME_WAIT
+  TCP    127.0.0.1:63570        kubernetes:62501       TIME_WAIT
+  TCP    127.0.0.1:63592        kubernetes:63593       ESTABLISHED
+  TCP    127.0.0.1:63593        kubernetes:63592       ESTABLISHED
+  TCP    192.168.1.41:61178     20.54.36.229:https     ESTABLISHED
+  TCP    192.168.1.41:61938     55:https               ESTABLISHED
+  TCP    192.168.1.41:62944     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62945     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62947     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62950     a2-17-211-176:https    CLOSE_WAIT
+  TCP    192.168.1.41:62954     52.111.231.0:https     CLOSE_WAIT
+  TCP    192.168.1.41:63549     82:http                TIME_WAIT
+  TCP    192.168.1.41:63561     181:https              ESTABLISHED
+  TCP    192.168.1.41:63562     ec2-35-172-84-132:https  CLOSE_WAIT
+  TCP    192.168.1.41:63563     181:https              ESTABLISHED
+  TCP    192.168.1.41:63567     192.168.1.1:43210      TIME_WAIT
+  TCP    192.168.1.41:63572     192.168.1.54:1980      CLOSE_WAIT
+  TCP    192.168.1.41:63573     192.168.1.42:60000     CLOSE_WAIT
+  TCP    192.168.1.41:63574     192.168.1.54:1980      CLOSE_WAIT
+  TCP    192.168.1.41:63575     192.168.1.42:60000     CLOSE_WAIT
+  TCP    192.168.1.41:63590     239:https              ESTABLISHED
+  TCP    192.168.1.41:63591     102:https              ESTABLISHED
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62179  [2603:1026:c09:83f::2]:https  ESTABLISHED
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62940  g2a02-26f0-0980-0009-0000-0000-6010-56e1:https  CLOSE_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:62956  g2a02-26f0-9f00-000c-0000-0000-17c8-4298:https  CLOSE_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63545  [2600:1901:0:38d7::]:http  TIME_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63546  [2600:1901:0:38d7::]:http  TIME_WAIT
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63555  wa-in-xbc:5228         ESTABLISHED
+  TCP    [2a02:9140:5200:1400:3413:3f23:9304:969c]:63560  [2606:4700:4400::ac40:9a56]:https  ESTABLISHED
